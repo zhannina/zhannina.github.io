@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a PhD student at the Interaction Design Lab <a href="{{http://www.cis.unimelb.edu.au/research/groups/interaction-design/}}"> at the University of Melbourne . My research interests include Ubiquitous Computing and Human-Computer Interaction. In particular I am interested in how people interact with mobile devices and how can the interaction be improved.
+I am a PhD student at the [Interaction Design Lab](http://www.cis.unimelb.edu.au/research/groups/interaction-design/) at the [University of Melbourne](http://www.unimelb.edu.au/). My research interests include Ubiquitous Computing and Human-Computer Interaction. In particular I am interested in how people interact with mobile devices and how can the interaction be improved.
 
 ### More Information
 
