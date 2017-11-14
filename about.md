@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a PhD student at the Interaction Design Lab <a href="{{http://www.cis.unimelb.edu.au/research/groups/interaction-design/}}"> at the University of Melbourne . My research interests include Ubiquitous Computing and Human-Computer Interaction. In particular I am interested in how people interact with mobile devices and how can the interaction be improved.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I hold a BSc in Computer Science from University College London (UK) and MSc in Computer Science and Engineering from University of Oulu (Finland).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[z.sarsenbayeva@student.unimelb.edu.au](mailto:z.sarsenbayeva@student.unimelb.edu.au)
