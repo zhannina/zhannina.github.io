@@ -10,6 +10,6 @@ I am a PhD student at the [Interaction Design Lab](http://www.cis.unimelb.edu.au
 
 I hold a BSc in Computer Science from [University College London](https://www.ucl.ac.uk/) (UK) and MSc in Computer Science and Engineering from [University of Oulu](http://www.oulu.fi/university/) (Finland).
 
-### Contact me
-
+### Contact
+Please feel free to contact me at
 [z.sarsenbayeva@student.unimelb.edu.au](mailto:z.sarsenbayeva@student.unimelb.edu.au)
