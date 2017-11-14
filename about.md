@@ -8,7 +8,7 @@ I am a PhD student at the [Interaction Design Lab](http://www.cis.unimelb.edu.au
 
 ### More Information
 
-I hold a BSc in Computer Science from University College London (UK) and MSc in Computer Science and Engineering from University of Oulu (Finland).
+I hold a BSc in Computer Science from [University College London](https://www.ucl.ac.uk/) (UK) and MSc in Computer Science and Engineering from [University of Oulu](http://www.oulu.fi/university/) (Finland).
 
 ### Contact me
 
