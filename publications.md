@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 ### 2017
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, C. Luo, V. Kostakos, J. Goncalves (2017). [Challenges of Situational Impairments during Interaction with Mobile Devices]({{ site.baseurl }}/papers/ozchi_challenges.pdf). Proceedings of the 29th Australian Conference on Human-Computer Interaction **(OzCHI’17)**, to appear.
+***Honourable Mention Award***
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, A. Visuri, S. Rissanen, H. Rintamäki, V. Kostakos, J. Goncalves (2017). [Sensing Cold-Induced Situational Impairments in Mobile Interaction using Battery Temperature]({{ site.baseurl }}/papers/imwut2017d.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT)**, 1(3), article 98.
 
