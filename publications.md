@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 ### 2018
-S. Mayer, L. Lischke, J. E. Grønbæk, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Vogelsang, P. Woźniak, N. Henze, G. Jacucci. [Pac-Many: Movement Behavior when Playing Collaborative and Competitive Games on Large Displays]({{ site.baseurl }}/papers/mayer2018pacmany.pdf) In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2018 **(CHI’18)**, to appear.
+S. Mayer, L. Lischke, J. E. Grønbæk, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Vogelsang, P. Woźniak, N. Henze, G. Jacucci. [Pac-Many: Movement Behavior when Playing Collaborative and Competitive Games on Large Displays]({{ site.baseurl }}/papers/mayer2018pacmany.pdf). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2018 **(CHI’18)**, to appear.
 ### 2017
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, C. Luo, V. Kostakos, J. Goncalves (2017). [Challenges of Situational Impairments during Interaction with Mobile Devices]({{ site.baseurl }}/papers/ozchi_challenges.pdf). Proceedings of the 29th Australian Conference on Human-Computer Interaction **(OzCHI’17)**, to appear.
 <span style="font-weight:bold;">*Honourable Mention Award*</span>
