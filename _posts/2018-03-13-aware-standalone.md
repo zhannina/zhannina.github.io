@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A standalone application with Aware applications sensor
+title: How to create a standalone Android application with Aware Applications sensor
 ---
 
 I recently had to create a standalone android application with Aware applications sensor.
