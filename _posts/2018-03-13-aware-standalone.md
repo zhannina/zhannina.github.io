@@ -19,37 +19,37 @@ api "com.github.denzilferreira:aware-client:$aware_libs"
 3. Add jitpack repository in build.gradle (Module: app). For that inside repositories curly braces add:
  maven { url 'https://jitpack.io' } 
  
-4. Inside values folder create bools.xml file containing:
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item name="accessibility_access" format="boolean" type="bool">true</item>
-    <item name="standalone" format="boolean" type="bool">true</item>
-</resources>
+4. Inside values folder create bools.xml file containing the following: (please remember these are all tags, they are not being displayed in my blog, but I will fix it later once I have)
+< ?xml version="1.0" encoding="utf-8"? >
+< resources>
+    < item name="accessibility_access" format="boolean" type="bool">true</ item>
+    < item name="standalone" format="boolean" type="bool">true</ item>
+</ resources>
 
-5. Override <service> tag in the Manifest file <application> tag:
-<service
+5. Override < service> tag in the Manifest file < application> tag:
+< service
      android:name="com.aware.Applications"
      android:enabled="true"
      android:exported="true"
      android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE"
      tools:replace="android:enabled">
-     <intent-filter>
-         <action android:name="android.accessibilityservice.AccessibilityService" />
-         <category android:name="android.accessibilityservice.category.FEEDBACK_GENERIC" />
-     </intent-filter>
-     <meta-data
+     < intent-filter>
+         < action android:name="android.accessibilityservice.AccessibilityService" />
+         < category android:name="android.accessibilityservice.category.FEEDBACK_GENERIC" />
+	 </ intent-filter>
+     < meta-data
          android:name="android.accessibilityservice"
          android:resource="@xml/aware_accessibility_config" />
-</service>
+</ service>
 
 6. Add permissions inside the Manifest file before the <application> tag:
-<permission
+< permission
         android:name="com.aware.READ_CONTEXT_DATA"
         android:description="@string/read_permission"
         android:icon="@drawable/ic_launcher_settings"
         android:label="Read AWARE&apos;s Context data"
         android:protectionLevel="normal" />
-<permission
+< permission
     android:name="com.aware.WRITE_CONTEXT_DATA"
     android:description="@string/write_permission"
     android:icon="@drawable/ic_launcher_settings"
