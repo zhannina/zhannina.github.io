@@ -6,22 +6,24 @@ title: How to create a standalone Android application with Aware Applications se
 I recently had to create a standalone android application with Aware applications sensor.
 I summed up the steps in this post for a reference.
 
-1. Add the following variable to build.gradle (Project: Application) (it should be added just before buildscript{})
+<li> Add the following variable to build.gradle (Project: Application) (it should be added just before buildscript{})
 
 project.ext {
     aware_libs = (System.getenv("aware_libs") as String ?: "development-SNAPSHOT")
 }
+</li>
 
+<li> Add Aware in build.gradle (Module: app). In order to do that inside the dependencies curly braces put:
 
-2. Add Aware in build.gradle (Module: app). In order to do that inside the dependencies curly braces put:
+api "com.github.denzilferreira:aware-client:$aware_libs" 
+</li>
 
-api "com.github.denzilferreira:aware-client:$aware_libs"
-
-3. Add jitpack repository in build.gradle (Module: app). For that inside repositories curly braces add:
+<li> Add jitpack repository in build.gradle (Module: app). For that inside repositories curly braces add:
 
  maven { url 'https://jitpack.io' } 
+</li>
  
-4. Inside values folder create bools.xml file containing the following: (please remember these are all tags, they are not being displayed in my blog, but I will fix it later once I have)
+<li> Inside values folder create bools.xml file containing the following: (please remember these are all tags, they are not being displayed in my blog, but I will fix it later once I have)
 
 < ?xml version="1.0" encoding="utf-8"? >
 
@@ -31,7 +33,9 @@ api "com.github.denzilferreira:aware-client:$aware_libs"
     < item name="standalone" format="boolean" type="bool">true</ item>
 	
 </ resources>
+</li>
 
+<li>
 5. Override < service> tag in the Manifest file < application> tag:
 
 < service
@@ -54,8 +58,10 @@ api "com.github.denzilferreira:aware-client:$aware_libs"
          android:resource="@xml/aware_accessibility_config" />
 		 
 </ service>
+</li>
 
-6. Add permissions inside the Manifest file before the <application> tag:
+
+<li> Add permissions inside the Manifest file before the < application> tag:
 < permission
 
         android:name="com.aware.READ_CONTEXT_DATA"
@@ -71,8 +77,9 @@ api "com.github.denzilferreira:aware-client:$aware_libs"
     android:icon="@drawable/ic_launcher_settings"
     android:label="Write to AWARE&apos;s Context data"
     android:protectionLevel="normal" />
-	
-7. Within the MainActivity (or service) where you want to use the sensor, start Aware:
+</li>
+
+<li> Within the MainActivity (or service) where you want to use the sensor, start Aware:
 either using the intent:
 
  Intent aware = new Intent(this, Aware.class);
@@ -82,11 +89,14 @@ either using the intent:
 or simply calling: 
  Aware.startAWARE(this);
  
-8. Start the Applications sensor:
+</li>
+
+<li> Start the Applications sensor:
 
  Applications.isAccessibilityServiceActive(getApplicationContext());
- 
-9. Set Applications sensor observer:
+</li>
+
+<li> Set Applications sensor observer:
 
 Applications.setSensorObserver(new Applications.AWARESensorObserver() {
       @Override
@@ -119,6 +129,6 @@ Applications.setSensorObserver(new Applications.AWARESensorObserver() {
 
       }
 });
-
+</li>
 
 Your application should be working fine now.
