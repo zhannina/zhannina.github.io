@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 ### 2018
 S. Mayer, L. Lischke, J. E. Grønbæk, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Vogelsang, P. Woźniak, N. Henze, G. Jacucci. [Pac-Many: Movement Behavior when Playing Collaborative and Competitive Games on Large Displays]({{ site.baseurl }}/papers/mayer2018pacmany.pdf). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2018 **(CHI’18)**, to appear.
 ### 2017
