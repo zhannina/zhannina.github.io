@@ -93,6 +93,8 @@ or simply calling:
 
 <li> Start the Applications sensor:
 
+ Aware.setSetting(this, Aware_Preferences.STATUS_APPLICATIONS, true);
+
  Applications.isAccessibilityServiceActive(getApplicationContext());
 </li>
 
