@@ -3,7 +3,7 @@ layout: post
 title: Creating a new git repo from the existing 
 ---
 
-Recently I needed to copy my existing to project to a new git repository.
+Recently I needed to copy my existing project to a new git repository.
 After trying some solutions suggested on StackOverflow this [one](https://stackoverflow.com/questions/9527999/how-do-i-create-a-new-github-repo-from-a-branch-in-an-existing-repo) worked for me. 
 
 
