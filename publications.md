@@ -6,7 +6,7 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 ### 2018
 
-O. Matthews, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, W. Jiang, J. Newn, E. Velloso, S. Clinch, J. Goncalves (2018). [Inferring the Mood of a Community From Their Walking Speed: A Preliminary Study]({{ site.baseurl }}/papers/ubicomp2018b.pdf). Adjunct Proceedings of the 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp'18 Adjunct), to appear.
+O. Matthews, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, W. Jiang, J. Newn, E. Velloso, S. Clinch, J. Goncalves (2018). [Inferring the Mood of a Community From Their Walking Speed: A Preliminary Study]({{ site.baseurl }}/papers/ubicomp2018b.pdf). Adjunct Proceedings of the 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing **(UbiComp'18 Adjunct)**, to appear.
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, E. Velloso, V. Kostakos, J. Goncalves (2018). [Effect of Distinct Ambient Noise Types on Mobile Interaction]({{ site.baseurl }}/papers/imwut2018a.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18)**, 2(2), 82:1-82:23.
 
