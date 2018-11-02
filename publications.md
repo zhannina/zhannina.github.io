@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 ### 2018
+<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, E. Velloso, V. Kostakos, J. Goncalves (2018). [Effect of Distinct Ambient Noise Types on Mobile Interaction]({{ site.baseurl }}/papers/imwut2018a.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18)**, 2(2), 82:1-82:23.
+
+S. Klakegg, J. Goncalves, C. Luo, A. Visuri, A. Popov, N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, V. Kostakos, S. Hosio, S. Savage, A. Bykov, I. Meglinski, D. Ferreira (2018). [Assisted Medication Management in Elderly Care Using Miniaturised Near-Infrared Spectroscopy](http://www.jorgegoncalves.com/docs/imwut18a.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18)**, 2(2), 69:1-69:24.
 
 <span style="text-decoration:underline;">Zhanna Sarsenbayeva.</span> [Situational Impairments during Mobile Interaction]({{ site.baseurl }}/papers/p498Sarsenbayeva.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18)** 1(1), 11:498-11:503
 
@@ -12,11 +15,10 @@ O. Matthews, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, W.
 
 W. Jiang, G. Marini, N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, C. Luo, X. He, T. Dingler, Y. Kawahara & V. Kostakos.  [A Mobile Scanner for Probing Liquid Samples in Everyday Settings]({{ site.baseurl }}/papers/ubicomp2018nirs.pdf). Proceedings of the 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing **(Ubicomp'18 Adjunct)**, 1172-1177.
 
-<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, E. Velloso, V. Kostakos, J. Goncalves (2018). [Effect of Distinct Ambient Noise Types on Mobile Interaction]({{ site.baseurl }}/papers/imwut2018a.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18)**, 2(2), 82:1-82:23.
-
-S. Klakegg, J. Goncalves, C. Luo, A. Visuri, A. Popov, N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, V. Kostakos, S. Hosio, S. Savage, A. Bykov, I. Meglinski, D. Ferreira (2018). [Assisted Medication Management in Elderly Care Using Miniaturised Near-Infrared Spectroscopy](http://www.jorgegoncalves.com/docs/imwut18a.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18)**, 2(2), 69:1-69:24.
+A. Visuri, K, Asare, E. Kuosmanen, Y. Nishiyama, D. Ferreira, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, N. van Berkel, G. Wadley, V. Kostakos, S. Clinch, O. Matthews, S. Harper, A. Jenkins, S. Snow, m. c. schraefel (2018). [Ubiquitous Mobile Sensing: Behaviour, Mood, and Environment]({{ site.baseurl }}/papers/imwut2018d.pdf). Adjunct Proceedings of the 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing **(UbiComp’18 Adjunct)**, 1140-1143.
 
 S. Mayer, L. Lischke, J. E. Grønbæk, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Vogelsang, P. Woźniak, N. Henze, G. Jacucci. [Pac-Many: Movement Behavior when Playing Collaborative and Competitive Games on Large Displays]({{ site.baseurl }}/papers/mayer2018pacmany.pdf). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2018 **(CHI’18)**, 539:1-539:10.
+
 ### 2017
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, C. Luo, V. Kostakos, J. Goncalves (2017). [Challenges of Situational Impairments during Interaction with Mobile Devices]({{ site.baseurl }}/papers/ozchi_challenges.pdf). Proceedings of the 29th Australian Conference on Human-Computer Interaction **(OzCHI’17)**, 477-481.
 <span style="font-weight:bold;">*Honourable Mention Award*</span>
