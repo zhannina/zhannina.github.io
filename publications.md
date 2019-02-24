@@ -16,7 +16,7 @@ C. Luo, A. Visuri, S. Klakegg, N. van Berkel, <span style="text-decoration:under
 
 S. Klakegg, J. Goncalves, C. Luo, A. Visuri, A. Popov, N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, V. Kostakos, S. Hosio, S. Savage, A. Bykov, I. Meglinski, D. Ferreira (2018). [Assisted Medication Management in Elderly Care Using Miniaturised Near-Infrared Spectroscopy](http://www.jorgegoncalves.com/docs/imwut18a.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18)**, 2(2), 69:1-69:24.
 
-<span style="text-decoration:underline;">Zhanna Sarsenbayeva.</span> [Situational Impairments during Mobile Interaction]({{ site.baseurl }}/papers/p498Sarsenbayeva.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18 Adjunct)** 1(1), 11:498-11:503
+<span style="text-decoration:underline;">Zhanna Sarsenbayeva.</span> [Situational Impairments during Mobile Interaction]({{ site.baseurl }}/papers/p498Sarsenbayeva.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18 Adjunct)** 1(1), 11:498-11:503 <span style="font-weight:bold;">*Best Presentation -- Honourable Mention Award*</span>
 
 O. Matthews, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, W. Jiang, J. Newn, E. Velloso, S. Clinch, J. Goncalves (2018). [Inferring the Mood of a Community From Their Walking Speed: A Preliminary Study]({{ site.baseurl }}/papers/ubicomp2018b.pdf). Adjunct Proceedings of the 2018 ACM International Joint Conference on Pervasive and Ubiquitous Computing **(UbiComp'18 Adjunct)**, 1144-1149.
 
