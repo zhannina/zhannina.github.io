@@ -9,7 +9,7 @@ Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJ
 
 G.W. Tigwell, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B.M. Gorman, D.R. Flatla, J. Goncalves, Y. Yesilada, J.O. Wobbrock (2019). [Addressing the Challenges of Situationally-Induced Impairments and Disabilities in Mobile Interaction]({{ site.baseurl }}/papers/chiea19b.pdf). In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems **(CHI’19 EA)**, to appear.
 
-C. Luo, A. Visuri, S. Klakegg, N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Möttönen, J. Goncalves, T. Anagnostopoulos, D. Ferreira, H. Flores, E. Velloso, V. Kostakos (2019). [Energy-Efficient Prediction of Smartphone Unlocking]({{ site.baseurl }}/papers/puc19.pdf), **(Personal and Ubiquitous Computing)**, 23(1), 159-177.
+C. Luo, A. Visuri, S. Klakegg, N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Möttönen, J. Goncalves, T. Anagnostopoulos, D. Ferreira, H. Flores, E. Velloso, V. Kostakos (2019). [Energy-Efficient Prediction of Smartphone Unlocking]({{ site.baseurl }}/papers/puc19.pdf), **Personal and Ubiquitous Computing**, 23(1), 159-177.
 
 ### 2018
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, E. Velloso, V. Kostakos, J. Goncalves (2018). [Effect of Distinct Ambient Noise Types on Mobile Interaction]({{ site.baseurl }}/papers/imwut2018a.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18)**, 2(2), 82:1-82:23.
