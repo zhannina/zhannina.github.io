@@ -7,7 +7,7 @@ Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJ
 ### 2019
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, D. Hettiachchi, W. Jiang, T. Dingler, E. Velloso, V. Kostakos, J. Goncalves (2019). [Measuring the Effects of Stress on Mobile Interaction]({{ site.baseurl }}/papers/imwut19.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'19)**, 3(1), 24:1-24:18.
 
-<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, W. Jiang, D. Hettiachchi, V. Kostakos, J. Goncalves (2019). Effect of Ambient Light on Mobile Interaction. Proceedings of the 17th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’19)**, to appear.
+<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, W. Jiang, D. Hettiachchi, V. Kostakos, J. Goncalves (2019). [Effect of Ambient Light on Mobile Interaction]({{ site.baseurl }}/papers/interact19c.pdf). Proceedings of the 17th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’19)**, to appear.
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, V. Kostakos, J. Goncalves (2019). [Situationally-Induced Impairments and Disabilities Research]({{ site.baseurl }}/papers/chiea19c.pdf). In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems **(CHI’19 EA)**.
 
