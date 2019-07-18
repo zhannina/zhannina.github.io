@@ -11,6 +11,8 @@ Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJ
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, V. Kostakos, J. Goncalves (2019). [Situationally-Induced Impairments and Disabilities Research]({{ site.baseurl }}/papers/chiea19c.pdf). In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems **(CHI’19 EA)**.
 
+C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, C. Luo, J. Goncalves, V. Kostakos (2019). [Improving Wearable Sensor Data Quality UsingContext Markers]({{ site.baseurl }}/papers/ubicompadj19.pdf). Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing **(UbiComp'19 Adjunct)**, to appear.
+
 G.W. Tigwell, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B.M. Gorman, D.R. Flatla, J. Goncalves, Y. Yesilada, J.O. Wobbrock (2019). [Addressing the Challenges of Situationally-Induced Impairments and Disabilities in Mobile Interaction]({{ site.baseurl }}/papers/chiea19b.pdf). In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems **(CHI’19 EA)**.
 
 C. Luo, A. Visuri, S. Klakegg, N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Möttönen, J. Goncalves, T. Anagnostopoulos, D. Ferreira, H. Flores, E. Velloso, V. Kostakos (2019). [Energy-Efficient Prediction of Smartphone Unlocking]({{ site.baseurl }}/papers/puc19.pdf), **Personal and Ubiquitous Computing**, 23(1), 159-177.
