@@ -11,7 +11,7 @@ Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJ
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, V. Kostakos, J. Goncalves (2019). [Situationally-Induced Impairments and Disabilities Research]({{ site.baseurl }}/papers/chiea19c.pdf). In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems **(CHI’19 EA)**.
 
-C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, C. Luo, J. Goncalves, V. Kostakos (2019). [Improving Wearable Sensor Data Quality Using Context Markers]({{ site.baseurl }}/papers/ubicompadj19.pdf). Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing **(UbiComp'19 Adjunct)**, to appear.
+C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, C. Luo, J. Goncalves, V. Kostakos (2019). [Improving Wearable Sensor Data Quality Using Context Markers]({{ site.baseurl }}/papers/ubicompadj19.pdf). Adjunct Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing **(UbiComp'19 Adjunct)**, 598-601.
 
 G.W. Tigwell, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B.M. Gorman, D.R. Flatla, J. Goncalves, Y. Yesilada, J.O. Wobbrock (2019). [Addressing the Challenges of Situationally-Induced Impairments and Disabilities in Mobile Interaction]({{ site.baseurl }}/papers/chiea19b.pdf). In Extended Abstracts of the 2019 CHI Conference on Human Factors in Computing Systems **(CHI’19 EA)**.
 
@@ -20,7 +20,7 @@ C. Luo, A. Visuri, S. Klakegg, N. van Berkel, <span style="text-decoration:under
 ### 2018
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, E. Velloso, V. Kostakos, J. Goncalves (2018). [Effect of Distinct Ambient Noise Types on Mobile Interaction]({{ site.baseurl }}/papers/imwut2018a.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18)**, 2(2), 82:1-82:23.
 
-S. Klakegg, J. Goncalves, C. Luo, A. Visuri, A. Popov, N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, V. Kostakos, S. Hosio, S. Savage, A. Bykov, I. Meglinski, D. Ferreira (2018). [Assisted Medication Management in Elderly Care Using Miniaturised Near-Infrared Spectroscopy](http://www.jorgegoncalves.com/docs/imwut18a.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18)**, 2(2), 69:1-69:24.
+S. Klakegg, J. Goncalves, C. Luo, A. Visuri, A. Popov, N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, V. Kostakos, S. Hosio, S. Savage, A. Bykov, I. Meglinski, D. Ferreira (2018). [Assisted Medication Management in Elderly Care Using Miniaturised Near-Infrared Spectroscopy](http://www.jorgegoncalves.com/docs/imwut18a.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18)**, 2(2), 69:1-69:24. **Best Paper Award**
 
 <span style="text-decoration:underline;">Zhanna Sarsenbayeva.</span> [Situational Impairments during Mobile Interaction]({{ site.baseurl }}/papers/p498Sarsenbayeva.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'18 Adjunct)** 1(1), 11:498-11:503. 
 <span style="font-weight:bold;">*Best Presentation -- Honourable Mention Award*</span>
