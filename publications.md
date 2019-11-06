@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
+### 2020
+N. van Berkel, J. Goncalves, S. Hosio, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, E. Velloso, V. Kostakos (2020). [Overcoming Compliance Bias in Self-Report Studies: A Cross-Study Analysis]({{ site.baseurl }}/papers/ijhcs20.pdf). International Journal of Human-Computer Studies, 134, 1-12.
+
 ### 2019
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, D. Hettiachchi, W. Jiang, T. Dingler, E. Velloso, V. Kostakos, J. Goncalves (2019). [Measuring the Effects of Stress on Mobile Interaction]({{ site.baseurl }}/papers/imwut19.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'19)**, 3(1), 24:1-24:18.
 
