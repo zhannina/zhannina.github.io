@@ -5,9 +5,9 @@ permalink: /publications/
 ---
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 ### 2020
-<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, G. Marini, N. van Berkel, C. Luo, W. Jiang, K. Yang, G. Wadley, T. Dingler, V. Kostakos, J. Goncalves (2020). [Does Smartphone Use Drive our Emotions or vice versa? A Causal Analysis]({{ site.baseurl }}/papers/chi20b.pdf). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2020 **(CHI’20)**, to appear.
+<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, G. Marini, N. van Berkel, C. Luo, W. Jiang, K. Yang, G. Wadley, T. Dingler, V. Kostakos, J. Goncalves (2020). [Does Smartphone Use Drive our Emotions or vice versa? A Causal Analysis]({{ site.baseurl }}/papers/chi20b.pdf). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2020 **(CHI’20)**, 193:1-193:14.
 
-D. Hettiachchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, F. Allison, N. van Berkel, T. Dingler, G. Marini, V. Kostakos, J. Goncalves (2020). [“Hi! I am the Crowd Tasker” Crowdsourcing through Digital Voice Assistants]({{ site.baseurl }}/papers/chi20a.pdf). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2020 **(CHI’20)**, to appear.
+D. Hettiachchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, F. Allison, N. van Berkel, T. Dingler, G. Marini, V. Kostakos, J. Goncalves (2020). [“Hi! I am the Crowd Tasker” Crowdsourcing through Digital Voice Assistants]({{ site.baseurl }}/papers/chi20a.pdf). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2020 **(CHI’20)**, 36:1-36:15.
 
 N. van Berkel, J. Goncalves, S. Hosio, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, E. Velloso, V. Kostakos (2020). [Overcoming Compliance Bias in Self-Report Studies: A Cross-Study Analysis]({{ site.baseurl }}/papers/ijhcs20.pdf). International Journal of Human-Computer Studies, 134, 1-12.
 
