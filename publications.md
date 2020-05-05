@@ -12,6 +12,8 @@ D. Hettiachchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>,
 N. van Berkel, J. Goncalves, S. Hosio, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, E. Velloso, V. Kostakos (2020). [Overcoming Compliance Bias in Self-Report Studies: A Cross-Study Analysis]({{ site.baseurl }}/papers/ijhcs20.pdf). International Journal of Human-Computer Studies, 134, 1-12.
 
 ### 2019
+W. Jiang, G. Marini, N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, Z. Tan, C. Luo, X. He, T. Dingler, J. Goncalves, Y. Kawahara, V. Kostakos (2019). [Probing Sucrose Contents in Everyday Drinks Using Miniaturized Near-Infrared Spectroscopy Scanners]({{ site.baseurl }}/papers/imwut19b.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'20)**, 3(4), 136:1-136:25.
+
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, D. Hettiachchi, W. Jiang, T. Dingler, E. Velloso, V. Kostakos, J. Goncalves (2019). [Measuring the Effects of Stress on Mobile Interaction]({{ site.baseurl }}/papers/imwut19.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'19)**, 3(1), 24:1-24:18.
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, W. Jiang, D. Hettiachchi, V. Kostakos, J. Goncalves (2019). [Effect of Ambient Light on Mobile Interaction]({{ site.baseurl }}/papers/interact19c.pdf). Proceedings of the 17th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’19)**, Lecture Notes in Computer Science, vol 11748. Springer, Cham.
