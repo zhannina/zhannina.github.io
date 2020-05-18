@@ -62,5 +62,5 @@ J. Goncalves, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N
 A. Visuri, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, E. Karapanos, S. Jones (2016). [Impact of Mood Changes on Application Selection]({{ site.baseurl }}/papers/ubicompadj16e.pdf). In Adjunct Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing **(UbiComp’16 Adjunct)**, 535-540.
 
 
-###Thesis
+### Thesis
 Zhanna Sarsenbayeva. 2020. [Quantifying the Effects of Situationally-Induced Impairments and Disabilities on Mobile Interaction](https://minerva-access.unimelb.edu.au/handle/11343/239076). **PhD Thesis.** School of Computing and Information Systems, The University of Melbourne, Melbourne, Australia.
