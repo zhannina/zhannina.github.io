@@ -11,6 +11,7 @@ I hold a PhD in Engineering from the [School of Computing and Information System
 
 ### Contact
 Please feel free to [contact me](mailto:zhanna.sarsenbayeva@unimelb.edu.au) in case if you have any questions or interested in my research.
+Email: zhanna.sarsenbayeva[at]unimelb.edu.au
 
 ### CV
 Find my up to date CV [here]({{ site.baseurl }}/papers/Zhanna_CV.pdf)
