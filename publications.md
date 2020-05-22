@@ -63,4 +63,4 @@ A. Visuri, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. G
 
 
 ### Thesis
-Zhanna Sarsenbayeva. 2020. [Quantifying the Effects of Situationally-Induced Impairments and Disabilities on Mobile Interaction](https://minerva-access.unimelb.edu.au/handle/11343/239076). **PhD Thesis.** School of Computing and Information Systems, The University of Melbourne, Melbourne, Australia.
+Zhanna Sarsenbayeva. 2020. [Quantifying the Effects of Situationally-Induced Impairments and Disabilities on Mobile Interaction]({{ site.baseurl }}/papers/thesis.pdf). **PhD Thesis.** School of Computing and Information Systems, The University of Melbourne, Melbourne, Australia.
