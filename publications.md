@@ -6,7 +6,7 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 ### 2020
 
-K. Yang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2020). Benchmarking Commercial Emotion-Detection Systems using Realistic Distortions of Facial Image Datasets. The Visual Computer, to appear.
+K. Yang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2020). Benchmarking Commercial Emotion-Detection Systems using Realistic Distortions of Facial Image Datasets. **The Visual Computer**, to appear.
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, G. Marini, N. van Berkel, C. Luo, W. Jiang, K. Yang, G. Wadley, T. Dingler, V. Kostakos, J. Goncalves (2020). [Does Smartphone Use Drive our Emotions or vice versa? A Causal Analysis]({{ site.baseurl }}/papers/chi20b.pdf). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2020 **(CHI’20)**, 193:1-193:14.
 
@@ -14,7 +14,7 @@ D. Hettiachchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>,
 
 C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, X. Chen, T. Dingler, J. Goncalves, V. Kostakos (2020). [Accurate Measurement of Hand-Wash Quality Using Sensor Armbands: Instrument Validation Study](https://mhealth.jmir.org/2020/3/e17001/). JMIR mHealth and uHealth, 8(3), e17001:1-e17001:18.
 
-N. van Berkel, J. Goncalves, S. Hosio, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, E. Velloso, V. Kostakos (2020). [Overcoming Compliance Bias in Self-Report Studies: A Cross-Study Analysis]({{ site.baseurl }}/papers/ijhcs20.pdf). International Journal of Human-Computer Studies, 134, 1-12.
+N. van Berkel, J. Goncalves, S. Hosio, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, E. Velloso, V. Kostakos (2020). [Overcoming Compliance Bias in Self-Report Studies: A Cross-Study Analysis]({{ site.baseurl }}/papers/ijhcs20.pdf). **International Journal of Human-Computer Studies**, 134, 1-12.
 
 ### 2019
 W. Jiang, G. Marini, N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, Z. Tan, C. Luo, X. He, T. Dingler, J. Goncalves, Y. Kawahara, V. Kostakos (2019). [Probing Sucrose Contents in Everyday Drinks Using Miniaturized Near-Infrared Spectroscopy Scanners]({{ site.baseurl }}/papers/imwut19b.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp'20)**, 3(4), 136:1-136:25.
