@@ -7,7 +7,7 @@ Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJ
 ### 2020
 G.W. Tigwell,  <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B.M. Gorman, D.R. Flatla, J. Goncalves, Y. Yesilada, J.O. Wobbrock (2020). [Future Directions for Situationally Induced Impairments and Disabilities Research](https://interactions.acm.org/blog/view/future-directions-for-situationally-induced-impairments-and-disabilities-re). ACM Interactions Blog.
 
-K. Yang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2020). Benchmarking Commercial Emotion-Detection Systems using Realistic Distortions of Facial Image Datasets. **The Visual Computer**, to appear.
+K. Yang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2020). [Benchmarking Commercial Emotion-Detection Systems using Realistic Distortions of Facial Image Datasets.](https://link.springer.com/article/10.1007/s00371-020-01881-x) **The Visual Computer**.
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, G. Marini, N. van Berkel, C. Luo, W. Jiang, K. Yang, G. Wadley, T. Dingler, V. Kostakos, J. Goncalves (2020). [Does Smartphone Use Drive our Emotions or vice versa? A Causal Analysis]({{ site.baseurl }}/papers/chi20b.pdf). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2020 **(CHI’20)**, 193:1-193:14.
 
