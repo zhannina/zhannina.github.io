@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 ### 2020
+G.W. Tigwell,  <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B.M. Gorman, D.R. Flatla, J. Goncalves, Y. Yesilada, J.O. Wobbrock (2020). [Future Directions for Situationally Induced Impairments and Disabilities Research](https://interactions.acm.org/blog/view/future-directions-for-situationally-induced-impairments-and-disabilities-re). ACM Interactions Blog.
 
 K. Yang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2020). Benchmarking Commercial Emotion-Detection Systems using Realistic Distortions of Facial Image Datasets. **The Visual Computer**, to appear.
 
