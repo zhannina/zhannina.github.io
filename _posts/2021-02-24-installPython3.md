@@ -3,8 +3,8 @@ layout: post
 title: How I installed Python3 and PyCharm on my Mac
 ---
 
-Below I have listed instructions of how I installed python3 and PyCharm on my mac. You might find them useful.
-Installing Python3 and PyCharm (Instructions for Mac). Although the list looks so long, the steps are very easy and simple to follow.
+I found existing online instructions to install python3 on my mac confusing and complicated. Hence, below I listed instructions of how I installed python3 and PyCharm on my mac which I think are simpler than the ones on the internet. You might find them useful.
+Although the list looks so long, the steps are very easy and simple to follow.
 
 1. Go to [https://www.python.org/downloads/](https://www.python.org/downloads/)
 
@@ -14,7 +14,7 @@ Installing Python3 and PyCharm (Instructions for Mac). Although the list looks s
 
 4. Once the installation was successfully completed, you can see Python3.9 (or later version) folder in your Applications directory
 
-5. To check if python3 is working on your computer, go to Terminal and type: python3 command
+5. To check if python3 is working on your computer, go to Terminal and type: **python3** command
 
 6. This command will display **"> > >"** in the terminal, which indicates that the terminal is waiting for your python3 commands
 
