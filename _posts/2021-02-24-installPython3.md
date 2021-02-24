@@ -16,13 +16,13 @@ Installing Python3 and PyCharm (Instructions for Mac). Although the list looks s
 
 5. To check if python3 is working on your computer, go to Terminal and type: python3 command
 
-6. This command will display ">>>" in the terminal, which indicates that the terminal is waiting for your python3 commands
+6. This command will display **"> > >"** in the terminal, which indicates that the terminal is waiting for your python3 commands
 
 7. You can now try printing "Hello world" message by executing the following command:
 	 print("Hello world")  
 
 8. You can quit python from terminal by executing the command: 
-	quit()
+	**quit()**
 
 9. At this stage you have installed python on your computers
 
@@ -40,7 +40,7 @@ Installing Python3 and PyCharm (Instructions for Mac). Although the list looks s
 
 16. The it will take you to the three options: "New Project", "Open" and "Get from VCS"
 
-17. Choose "New Project" to start a new project
+17. Choose **"New Project"** to start a new project (quite obvious isn't it!)
 
 18. You will see a configuration window where you can specify the location of the project, python interpreter and other details. 
 
@@ -48,7 +48,7 @@ Installing Python3 and PyCharm (Instructions for Mac). Although the list looks s
 
 20. Check for the base interpreter for PyCharm. By default it should be python3.X (the one you installed previously). In case if the python version is different, you can click on the drop down list and select the latest version of python.
 
-21. Click on the "Create" button and PyCharm will take you to the project enviornment. It might also show you "Tip of the Day" window at the start. You can hide the tips window by selecting "Don't show tips" tick box and closing the window.
+21. Click on the "Create" button and PyCharm will take you to the project environment. It might also show you "Tip of the Day" window at the start. You can hide the tips window by selecting "Don't show tips" tick box and closing the window.
 
 22. Voila! You now have your python3 and PyCharm successfully installed and are ready for some python development!
-Congratulations!
+**Congratulations!**
