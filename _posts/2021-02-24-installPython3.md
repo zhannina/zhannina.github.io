@@ -14,7 +14,7 @@ Although the list looks so long, the steps are very easy and simple to follow.
 
 4. Once the installation was successfully completed, you can see Python3.9 (or later version) folder in your Applications directory
 
-5. To check if python3 is working on your computer, go to Terminal and type: **python3** command
+5. To check if python3 is working on your computer, go to Terminal and type the following command: **python3**
 
 6. This command will display **"> > >"** in the terminal, which indicates that the terminal is waiting for your python3 commands
 
