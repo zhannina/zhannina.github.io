@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 ### 2021
-W. Jiang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, C. Wang, D. Yu, J. Wei, J. Goncalves, V. Kostakos (2021). User Trust in Assisted Decision-Making Using Miniaturized Near-Infrared Spectroscopy. In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2021 (CHI’21), to appear.
+W. Jiang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, C. Wang, D. Yu, J. Wei, J. Goncalves, V. Kostakos (2021). [User Trust in Assisted Decision-Making Using Miniaturized Near-Infrared Spectroscopy](https://dl.acm.org/doi/abs/10.1145/3411764.3445710). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2021 (CHI’21), 153:1-153:16.
 
 ### 2020
 G.W. Tigwell,  <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B.M. Gorman, D.R. Flatla, J. Goncalves, Y. Yesilada, J.O. Wobbrock (2020). [Future Directions for Situationally Induced Impairments and Disabilities Research](https://interactions.acm.org/blog/view/future-directions-for-situationally-induced-impairments-and-disabilities-re). ACM Interactions Blog.
