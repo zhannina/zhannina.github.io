@@ -14,6 +14,8 @@ K. Yang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, G. Marini, N. van Berkel, C. Luo, W. Jiang, K. Yang, G. Wadley, T. Dingler, V. Kostakos, J. Goncalves (2020). [Does Smartphone Use Drive our Emotions or vice versa? A Causal Analysis]({{ site.baseurl }}/papers/chi20b.pdf). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2020 **(CHI’20)**, 193:1-193:14.
 
+<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, S. Yan, V. Kostakos, J. Goncalves (2020). [Using Video Games to Regulate Emotion.](https://www.jorgegoncalves.com/docs/ozchi20.pdf) In Proceedings of the 32nd Australian Conference on Human-Computer Interaction (OzCHI’20), 755–759.
+
 D. Hettiachchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, F. Allison, N. van Berkel, T. Dingler, G. Marini, V. Kostakos, J. Goncalves (2020). [“Hi! I am the Crowd Tasker” Crowdsourcing through Digital Voice Assistants]({{ site.baseurl }}/papers/chi20a.pdf). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2020 **(CHI’20)**, 36:1-36:15.
 
 C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, X. Chen, T. Dingler, J. Goncalves, V. Kostakos (2020). [Accurate Measurement of Hand-Wash Quality Using Sensor Armbands: Instrument Validation Study](https://mhealth.jmir.org/2020/3/e17001/). JMIR mHealth and uHealth, 8(3), e17001:1-e17001:18.
