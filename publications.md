@@ -5,14 +5,16 @@ permalink: /publications/
 ---
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 ### 2021
+C. Wang, W. Jiang, K. Yang, D. Yu, J. Newn, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, V. Kostakos (2021). [A Systematic Review of Electronic Monitoring Systems for Hand Hygiene](https://preprints.jmir.org/preprint/27880/accepted). **Journal of Medical Internet Research**, (to appear).
+
 E. Ertay, H. Huang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Dingler (2021). [Challenges of Emotion Detection Using Facial Expressions and Emotion Visualisation in Remote Communication]({{ site.baseurl }}/papers/ubicomp21.pdf). Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing **(UbiComp'21 Adjunct)**, 230-236.
 
 K. Yang, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2021). [Behavioral and Physiological Signals-Based Deep Multimodal Approach for Mobile Emotion Recognition](https://www.jorgegoncalves.com/docs/ieeetaffc.pdf). **IEEE Transactions on Affective Computing**, to appear.
 
-W. Jiang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, C. Wang, D. Yu, J. Wei, J. Goncalves, V. Kostakos (2021). [User Trust in Assisted Decision-Making Using Miniaturized Near-Infrared Spectroscopy](https://dl.acm.org/doi/abs/10.1145/3411764.3445710). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2021 (CHI’21), 153:1-153:16.
+W. Jiang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, C. Wang, D. Yu, J. Wei, J. Goncalves, V. Kostakos (2021). [User Trust in Assisted Decision-Making Using Miniaturized Near-Infrared Spectroscopy](https://dl.acm.org/doi/abs/10.1145/3411764.3445710). In Proceedings of the ACM SIGCHI Conference on Human Factors in Computing Systems 2021 **(CHI’21)**, 153:1-153:16.
 
 ### 2020
-G.W. Tigwell,  <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B.M. Gorman, D.R. Flatla, J. Goncalves, Y. Yesilada, J.O. Wobbrock (2020). [Future Directions for Situationally Induced Impairments and Disabilities Research](https://interactions.acm.org/blog/view/future-directions-for-situationally-induced-impairments-and-disabilities-re). ACM Interactions Blog.
+G.W. Tigwell,  <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B.M. Gorman, D.R. Flatla, J. Goncalves, Y. Yesilada, J.O. Wobbrock (2020). [Future Directions for Situationally Induced Impairments and Disabilities Research](https://interactions.acm.org/blog/view/future-directions-for-situationally-induced-impairments-and-disabilities-re). **ACM Interactions Blog**.
 
 K. Yang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2020). [Benchmarking Commercial Emotion-Detection Systems using Realistic Distortions of Facial Image Datasets](https://link.springer.com/article/10.1007/s00371-020-01881-x). **The Visual Computer**.
 
