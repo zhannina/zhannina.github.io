@@ -4,8 +4,24 @@ title: Publications
 permalink: /publications/
 ---
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
+### 2022
+
+<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, E. Velloso, J. Goncalves, V. Kostakos (2022). [Methodological Standards in Accessibility Research on Motor Impairments: A Survey](https://dl.acm.org/doi/pdf/10.1145/3543509). **ACM Computing Surveys**, (May 2022), doi: https://doi.org/10.1145/3543509.
+
+B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva}</span>, A. Cox, G. Wadley, J. Goncalves, V. Kostakos (2022). [Emotion Trajectories in Smartphone Use: Towards Recognizing Emotion Regulation In-the-Wild](https://www.sciencedirect.com/science/article/abs/pii/S1071581922000982). **International Journal of Human-Computer Studies**, 166, 102872.
+
+C. Wang, K. Yang, W. Jiang, J. Wei, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, V. Kostakos (2022). Hand Hygiene Quality Assessment using Image-to-Image Translation. In Proceedings of the International Conference on Medical Image Computing and Computer Assisted Intervention, **(MICCAI’22)**, to appear.
+
+W. Jiang, D. Yu, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, J. Goncalves, V. Kostakos (2022). [Near-Infrared Imaging for Information Embedding and Extraction with Layered Structures](https://web.archive.org/web/20220505230732id_/https://dl.acm.org/doi/pdf/10.1145/3533426). **ACM Transactions on Graphics**, (April 2022), doi: https://doi.org/10.1145/3533426.
+
+C. Wang, W. Jiang, K. Yang, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Dingler, J. Goncalves, V. Kostakos (2022). [A System for Computational Assessment of Hand Hygiene Techniques](https://link.springer.com/article/10.1007/s10916-022-01817-z). **Journal of Medical Systems**, 46(6), 1-12.
+
+B. Tag, N. van Berkel, A. Vargo, <span style="text-decoration:underline;">Z. Sarsenbayeva<span>, T. Colasante, G. Wadley, S. Webber, W. Smith, P. Koval, T. Hollenstein, J. Goncalves, V. Kostakos (2022). [Impact of the Global Pandemic upon Young People’s Use of Technology for Emotion Regulation](https://www.sciencedirect.com/science/article/pii/S2451958822000264). **Computers in Human Behavior Reports**, 6, 100192:1-100192:16.
+
+
+
 ### 2021
-C. Wang, W. Jiang, K. Yang, D. Yu, J. Newn, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, V. Kostakos (2021). [A Systematic Review of Electronic Monitoring Systems for Hand Hygiene](https://preprints.jmir.org/preprint/27880/accepted). **Journal of Medical Internet Research**, to appear.
+C. Wang, W. Jiang, K. Yang, D. Yu, J. Newn, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, V. Kostakos (2021). [A Systematic Review of Electronic Monitoring Systems for Hand Hygiene](https://preprints.jmir.org/preprint/27880/accepted). **Journal of Medical Internet Research**, 
 
 E. Ertay, H. Huang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Dingler (2021). [Challenges of Emotion Detection Using Facial Expressions and Emotion Visualisation in Remote Communication]({{ site.baseurl }}/papers/ubicomp21.pdf). Adjunct Proceedings of the 2021 ACM International Joint Conference on Pervasive and Ubiquitous Computing **(UbiComp'21 Adjunct)**, 230-236.
 
