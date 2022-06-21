@@ -8,7 +8,7 @@ Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJ
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, E. Velloso, J. Goncalves, V. Kostakos (2022). [Methodological Standards in Accessibility Research on Motor Impairments: A Survey](https://dl.acm.org/doi/pdf/10.1145/3543509). **ACM Computing Surveys**, (May 2022), doi: https://doi.org/10.1145/3543509.
 
-B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva}</span>, A. Cox, G. Wadley, J. Goncalves, V. Kostakos (2022). [Emotion Trajectories in Smartphone Use: Towards Recognizing Emotion Regulation In-the-Wild](https://www.sciencedirect.com/science/article/abs/pii/S1071581922000982). **International Journal of Human-Computer Studies**, 166, 102872.
+B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Cox, G. Wadley, J. Goncalves, V. Kostakos (2022). [Emotion Trajectories in Smartphone Use: Towards Recognizing Emotion Regulation In-the-Wild](https://www.sciencedirect.com/science/article/abs/pii/S1071581922000982). **International Journal of Human-Computer Studies**, 166, 102872.
 
 C. Wang, K. Yang, W. Jiang, J. Wei, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, V. Kostakos (2022). Hand Hygiene Quality Assessment using Image-to-Image Translation. In Proceedings of the International Conference on Medical Image Computing and Computer Assisted Intervention, **(MICCAI’22)**, to appear.
 
