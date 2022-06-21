@@ -16,7 +16,7 @@ W. Jiang, D. Yu, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbaye
 
 C. Wang, W. Jiang, K. Yang, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Dingler, J. Goncalves, V. Kostakos (2022). [A System for Computational Assessment of Hand Hygiene Techniques](https://link.springer.com/article/10.1007/s10916-022-01817-z). **Journal of Medical Systems**, 46(6), 1-12.
 
-B. Tag, N. van Berkel, A. Vargo, <span style="text-decoration:underline;">Z. Sarsenbayeva<span>, T. Colasante, G. Wadley, S. Webber, W. Smith, P. Koval, T. Hollenstein, J. Goncalves, V. Kostakos (2022). [Impact of the Global Pandemic upon Young People’s Use of Technology for Emotion Regulation](https://www.sciencedirect.com/science/article/pii/S2451958822000264). **Computers in Human Behavior Reports**, 6, 100192:1-100192:16.
+B. Tag, N. van Berkel, A. Vargo, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Colasante, G. Wadley, S. Webber, W. Smith, P. Koval, T. Hollenstein, J. Goncalves, V. Kostakos (2022). [Impact of the Global Pandemic upon Young People’s Use of Technology for Emotion Regulation](https://www.sciencedirect.com/science/article/pii/S2451958822000264). **Computers in Human Behavior Reports**, 6, 100192:1-100192:16.
 
 
 
