@@ -4,9 +4,21 @@ title: Publications
 permalink: /publications/
 ---
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
+### 2023
+
+<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, D. Hettiachchi, B. Tag, E. Velloso, J. Goncalves, V. Kostakos (2023). Mapping 20 Years of Accessibility Research in HCI: A Co-word Analysis. International Journal of Human-Computer Studies, to appear.
+
+K. Yang, B. Tag, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Dingler, G. Wadley, J. Goncalves (2023). Survey on Emotion Sensing using Mobile Devices. IEEE Transactions on Affective Computing, to appear.
+
+N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves (2023). The Methodology of Studying Fairness Perceptions in Artificial Intelligence: Contrasting CHI and FAccT. International Journal of Human-Computer Studies, 170, 102954.
+
+W. Jiang, D. Yu, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, J. Goncalves, V. Kostakos (2023). Near-Infrared Imaging for Information Embedding and Extraction with Layered Structures. ACM Transactions on Graphics, 42(1), 4:1-4:26.
+
 ### 2022
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, E. Velloso, J. Goncalves, V. Kostakos (2022). [Methodological Standards in Accessibility Research on Motor Impairments: A Survey](https://dl.acm.org/doi/pdf/10.1145/3543509). **ACM Computing Surveys**, (May 2022), doi: https://doi.org/10.1145/3543509.
+
+K. Yang, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2022). Behavioral and Physiological Signals-Based Deep Multimodal Approach for Mobile Emotion Recognition. IEEE Transactions on Affective Computing, to appear.
 
 B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Cox, G. Wadley, J. Goncalves, V. Kostakos (2022). [Emotion Trajectories in Smartphone Use: Towards Recognizing Emotion Regulation In-the-Wild](https://www.sciencedirect.com/science/article/abs/pii/S1071581922000982). **International Journal of Human-Computer Studies**, 166, 102872.
 
