@@ -8,21 +8,21 @@ Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJ
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, D. Hettiachchi, B. Tag, E. Velloso, J. Goncalves, V. Kostakos (2023). Mapping 20 Years of Accessibility Research in HCI: A Co-word Analysis. International Journal of Human-Computer Studies, to appear.
 
-K. Yang, B. Tag, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Dingler, G. Wadley, J. Goncalves (2023). Survey on Emotion Sensing using Mobile Devices. IEEE Transactions on Affective Computing, to appear.
+K. Yang, B. Tag, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Dingler, G. Wadley, J. Goncalves (2023). [Survey on Emotion Sensing using Mobile Devices]{https://ieeexplore.ieee.org/abstract/document/9942293?casa_token=HUimur0QWT8AAAAA:36DuMfm0i07rz0AckK1w17yZ0L2Ijk-tNU2MrE5uf0ngQ83syoh3Zp8E0BiTzkn5rPhk3BHs}. IEEE Transactions on Affective Computing.
 
-N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves (2023). The Methodology of Studying Fairness Perceptions in Artificial Intelligence: Contrasting CHI and FAccT. International Journal of Human-Computer Studies, 170, 102954.
+N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves (2023). [The Methodology of Studying Fairness Perceptions in Artificial Intelligence: Contrasting CHI and FAccT]{https://www.sciencedirect.com/science/article/pii/S1071581922001744}. International Journal of Human-Computer Studies, 170, 102954.
 
-W. Jiang, D. Yu, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, J. Goncalves, V. Kostakos (2023). Near-Infrared Imaging for Information Embedding and Extraction with Layered Structures. ACM Transactions on Graphics, 42(1), 4:1-4:26.
+W. Jiang, D. Yu, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, J. Goncalves, V. Kostakos (2023). [Near-Infrared Imaging for Information Embedding and Extraction with Layered Structures]{https://dl.acm.org/doi/full/10.1145/3533426?casa_token=kYDIZk-Uz-AAAAAA%3Aehpfr0NVaepiCJA3Tvu2Tj2rjM-XmiRAYro1CpuZEaHXK0PhrWqB6-Ek0fku-e7-u29c8ByhXXzz}. ACM Transactions on Graphics, 42(1), 4:1-4:26.
 
 ### 2022
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, E. Velloso, J. Goncalves, V. Kostakos (2022). [Methodological Standards in Accessibility Research on Motor Impairments: A Survey](https://dl.acm.org/doi/pdf/10.1145/3543509). **ACM Computing Surveys**, (May 2022), doi: https://doi.org/10.1145/3543509.
 
-K. Yang, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2022). Behavioral and Physiological Signals-Based Deep Multimodal Approach for Mobile Emotion Recognition. IEEE Transactions on Affective Computing, to appear.
+K. Yang, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2022). [Behavioral and Physiological Signals-Based Deep Multimodal Approach for Mobile Emotion Recognition]{https://ieeexplore.ieee.org/abstract/document/9502508?casa_token=MS7vzwGJu10AAAAA:LVvYPIPrXZGPG7lgtWbxg8Lo2ADQYrfkkJUGPJZd_-DADd8003MrvWNPQsM6wcxKkBtXiwtU}. IEEE Transactions on Affective Computing.
 
 B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Cox, G. Wadley, J. Goncalves, V. Kostakos (2022). [Emotion Trajectories in Smartphone Use: Towards Recognizing Emotion Regulation In-the-Wild](https://www.sciencedirect.com/science/article/abs/pii/S1071581922000982). **International Journal of Human-Computer Studies**, 166, 102872.
 
-C. Wang, K. Yang, W. Jiang, J. Wei, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, V. Kostakos (2022). Hand Hygiene Quality Assessment using Image-to-Image Translation. In Proceedings of the International Conference on Medical Image Computing and Computer Assisted Intervention, **(MICCAI’22)**, to appear.
+C. Wang, K. Yang, W. Jiang, J. Wei, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, V. Kostakos (2022). [Hand Hygiene Quality Assessment using Image-to-Image Translation]{https://link.springer.com/chapter/10.1007/978-3-031-16449-1_7}. In: Wang, L., Dou, Q., Fletcher, P.T., Speidel, S., Li, S. (eds) Medical Image Computing and Computer Assisted Intervention – MICCAI 2022. **(MICCAI’22)**. Lecture Notes in Computer Science, vol 13437. Springer, Cham.
 
 W. Jiang, D. Yu, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, J. Goncalves, V. Kostakos (2022). [Near-Infrared Imaging for Information Embedding and Extraction with Layered Structures](https://web.archive.org/web/20220505230732id_/https://dl.acm.org/doi/pdf/10.1145/3533426). **ACM Transactions on Graphics**, (April 2022), doi: https://doi.org/10.1145/3533426.
 
