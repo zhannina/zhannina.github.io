@@ -12,7 +12,6 @@ K. Yang, B. Tag, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sar
 
 N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves (2023). [The Methodology of Studying Fairness Perceptions in Artificial Intelligence: Contrasting CHI and FAccT](https://www.sciencedirect.com/science/article/pii/S1071581922001744). International Journal of Human-Computer Studies, 170, 102954.
 
-W. Jiang, D. Yu, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, J. Goncalves, V. Kostakos (2023). [Near-Infrared Imaging for Information Embedding and Extraction with Layered Structures](https://dl.acm.org/doi/full/10.1145/3533426?casa_token=kYDIZk-Uz-AAAAAA%3Aehpfr0NVaepiCJA3Tvu2Tj2rjM-XmiRAYro1CpuZEaHXK0PhrWqB6-Ek0fku-e7-u29c8ByhXXzz). ACM Transactions on Graphics, 42(1), 4:1-4:26.
 
 ### 2022
 
