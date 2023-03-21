@@ -6,7 +6,7 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 ### 2023
 
-<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, D. Hettiachchi, B. Tag, E. Velloso, J. Goncalves, V. Kostakos (2023). Mapping 20 Years of Accessibility Research in HCI: A Co-word Analysis. International Journal of Human-Computer Studies, to appear.
+<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, D. Hettiachchi, B. Tag, E. Velloso, J. Goncalves, V. Kostakos (2023). [Mapping 20 Years of Accessibility Research in HCI: A Co-word Analysis](https://www.sciencedirect.com/science/article/pii/S1071581923000241?casa_token=gram56CImzoAAAAA:mDC_j_WLxr0kzxLXetPvj-PsketUviw3Ht1AqBiGQAZcSGuvpKHZ3S_I0MDWKBFTPtpz8JgU). International Journal of Human-Computer Studies, 103018.
 
 K. Yang, B. Tag, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Dingler, G. Wadley, J. Goncalves (2023). [Survey on Emotion Sensing using Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9942293?casa_token=HUimur0QWT8AAAAA:36DuMfm0i07rz0AckK1w17yZ0L2Ijk-tNU2MrE5uf0ngQ83syoh3Zp8E0BiTzkn5rPhk3BHs). IEEE Transactions on Affective Computing.
 
