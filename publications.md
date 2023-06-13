@@ -10,6 +10,9 @@ Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJ
 
 Y. Ma, Q. Zhou, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves (2023). "Hello, Fellow Villager!": Perceptions and Impact of Displaying Users’ Locations on Weibo. Proceedings of the 19th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’23)**, to appear.
 
+A. Tong, P. Perera, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. McEwan, A. C. De Silva, A. Withana (2023). [Fully 3D-Printed Dry EEG Electrodes](https://www.mdpi.com/1424-8220/23/11/5175), **Sensors**, no. 11: 5175.
+
+
 C. Wang, W. Jiang, K. Yang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, J. Goncalves, V. Kostakos (2023). [Using Thermal Imaging to Measure Hand Hygiene Quality](https://arxiv.org/pdf/2302.02233.pdf). Journal of Hospital Infection, to appear.
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, D. Hettiachchi, B. Tag, E. Velloso, J. Goncalves, V. Kostakos (2023). [Mapping 20 Years of Accessibility Research in HCI: A Co-word Analysis](https://www.sciencedirect.com/science/article/pii/S1071581923000241?casa_token=gram56CImzoAAAAA:mDC_j_WLxr0kzxLXetPvj-PsketUviw3Ht1AqBiGQAZcSGuvpKHZ3S_I0MDWKBFTPtpz8JgU). International Journal of Human-Computer Studies, 103018.
