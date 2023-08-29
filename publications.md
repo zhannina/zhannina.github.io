@@ -6,9 +6,11 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2023
-<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, C. Fleming, B. Tag, A. Withana, N. van Berkel, A. McEwan (2023). A Review on Mood Assessment using Smartphones. Proceedings of the 19th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’23)**, to appear.
+<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, C. Fleming, B. Tag, A. Withana, N. van Berkel, A. McEwan (2023). [A Review on Mood Assessment using Smartphones](https://link.springer.com/chapter/10.1007/978-3-031-42283-6_22). Proceedings of the 19th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’23)**, Lecture Notes in Computer Science, vol 14143. Springer, Cham.
 
-Y. Ma, Q. Zhou, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves (2023). "Hello, Fellow Villager!": Perceptions and Impact of Displaying Users’ Locations on Weibo. Proceedings of the 19th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’23)**, to appear.
+W. Jiang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Irlitti, J. Wei, J. Knibbe, T. Dingler, J. Goncalves, V. Kostakos (2023). Embedding Interactive Information in 3D Prints Using Low-Cost Readily-Available Printers and Materials. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), to appear.
+
+Y. Ma, Q. Zhou, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves (2023). ["Hello, Fellow Villager!": Perceptions and Impact of Displaying Users’ Locations on Weibo](https://link.springer.com/chapter/10.1007/978-3-031-42286-7_29). Proceedings of the 19th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’23)**, Lecture Notes in Computer Science, vol 14144. Springer, Cham.
 
 A. Tong, P. Perera, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. McEwan, A. C. De Silva, A. Withana (2023). [Fully 3D-Printed Dry EEG Electrodes](https://www.mdpi.com/1424-8220/23/11/5175), **Sensors**, no. 11: 5175.
 
