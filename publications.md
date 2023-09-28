@@ -8,14 +8,14 @@ Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJ
 ### 2023
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, C. Fleming, B. Tag, A. Withana, N. van Berkel, A. McEwan (2023). [A Review on Mood Assessment using Smartphones](https://link.springer.com/chapter/10.1007/978-3-031-42283-6_22). Proceedings of the 19th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’23)**, Lecture Notes in Computer Science, vol 14143. Springer, Cham.
 
-W. Jiang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Irlitti, J. Wei, J. Knibbe, T. Dingler, J. Goncalves, V. Kostakos (2023). Embedding Interactive Information in 3D Prints Using Low-Cost Readily-Available Printers and Materials. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), to appear.
+W. Jiang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Irlitti, J. Wei, J. Knibbe, T. Dingler, J. Goncalves, V. Kostakos (2023). [Embedding Interactive Information in 3D Prints Using Low-Cost Readily-Available Printers and Materials](https://dl.acm.org/doi/10.1145/3610933). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), vol 7, issue 3, Article No.: 102, pp 1–29.
 
 Y. Ma, Q. Zhou, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves (2023). ["Hello, Fellow Villager!": Perceptions and Impact of Displaying Users’ Locations on Weibo](https://link.springer.com/chapter/10.1007/978-3-031-42286-7_29). Proceedings of the 19th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’23)**, Lecture Notes in Computer Science, vol 14144. Springer, Cham.
 
 A. Tong, P. Perera, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. McEwan, A. C. De Silva, A. Withana (2023). [Fully 3D-Printed Dry EEG Electrodes](https://www.mdpi.com/1424-8220/23/11/5175), **Sensors**, no. 11: 5175.
 
 
-C. Wang, W. Jiang, K. Yang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, J. Goncalves, V. Kostakos (2023). [Using Thermal Imaging to Measure Hand Hygiene Quality](https://arxiv.org/pdf/2302.02233.pdf). Journal of Hospital Infection, to appear.
+C. Wang, W. Jiang, K. Yang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, J. Goncalves, V. Kostakos (2023). [Using Thermal Imaging to Measure Hand Hygiene Quality](https://www.sciencedirect.com/science/article/pii/S0195670123001718). Journal of Hospital Infection, vol 139 (Sep 2023).
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, D. Hettiachchi, B. Tag, E. Velloso, J. Goncalves, V. Kostakos (2023). [Mapping 20 Years of Accessibility Research in HCI: A Co-word Analysis](https://www.sciencedirect.com/science/article/pii/S1071581923000241?casa_token=gram56CImzoAAAAA:mDC_j_WLxr0kzxLXetPvj-PsketUviw3Ht1AqBiGQAZcSGuvpKHZ3S_I0MDWKBFTPtpz8JgU). International Journal of Human-Computer Studies, 103018.
 
@@ -39,6 +39,8 @@ W. Jiang, D. Yu, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbaye
 C. Wang, W. Jiang, K. Yang, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Dingler, J. Goncalves, V. Kostakos (2022). [A System for Computational Assessment of Hand Hygiene Techniques](https://link.springer.com/article/10.1007/s10916-022-01817-z). **Journal of Medical Systems**, 46(6), 1-12.
 
 B. Tag, N. van Berkel, A. Vargo, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Colasante, G. Wadley, S. Webber, W. Smith, P. Koval, T. Hollenstein, J. Goncalves, V. Kostakos (2022). [Impact of the Global Pandemic upon Young People’s Use of Technology for Emotion Regulation](https://www.sciencedirect.com/science/article/pii/S2451958822000264). **Computers in Human Behavior Reports**, 6, 100192:1-100192:16.
+
+W. Jiang, K. Yang, M. Windl, F. Chiossi, B. Tag, S. Mayer, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. [Current Challenges of Using Wearable Devices for Online Emotion Sensing](https://arxiv.org/pdf/2208.05206.pdf). In The Future of Emotion in Human-Computer Interaction (workshop in CHI 2022). 2022
 
 
 
