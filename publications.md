@@ -5,6 +5,13 @@ permalink: /publications/
 ---
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
+### 2024
+Y. Ma, C. Sew, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. Understanding Users’ Perspectives on Location Privacy Management on iPhones. Proceedings of the ACM on Human-Computer Interaction, 8 (MHCI), to appear.
+
+H. Zhou, P. Somarathne, T.A. Peirispulle, C. Fan, Z. Sarsenbayeva, A. Withana (2024). [PairPlayVR: Shared Hand Control for Virtual Games](https://dl.acm.org/doi/pdf/10.1145/3652920.3653057). In Proceedings of the Augmented Humans International Conference 2024 (pp. 311-314).
+
+A. Tong, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, H. Koike, M. Inami, A. McEwan, A. Withana (2024). Developing Strategies for Co-designing Assistive Augmentation Technologies. In Proceedings of the Augmented Humans International Conference 2024 (AHs’24), 324–326.
+
 ### 2023
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, C. Fleming, B. Tag, A. Withana, N. van Berkel, A. McEwan (2023). [A Review on Mood Assessment using Smartphones](https://link.springer.com/chapter/10.1007/978-3-031-42283-6_22). Proceedings of the 19th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’23)**, Lecture Notes in Computer Science, vol 14143. Springer, Cham.
 
