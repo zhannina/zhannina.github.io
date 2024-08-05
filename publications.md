@@ -10,7 +10,7 @@ H. Zhou, T. Ayesh, C. Fan, <span style="text-decoration:underline;">Z. Sarsenbay
 
 W. Jiang, M. Windl, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, S. Mayer (2024). An Immersive and Interactive VR Dataset to Elicit Emotions. In Proceedings of the TVCG Special Issue on the 2024 IEEE International Symposium on Mixed and Augmented Reality **(ISMAR’24)**, to appear.
 
-Y. Ma, C. Sew, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. Understanding Users’ Perspectives on Location Privacy Management on iPhones. Proceedings of the ACM on Human-Computer Interaction, 8 **(MHCI)**, Article 282, 1-25.
+Y. Ma, C. Sew, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves (2024). Understanding Users’ Perspectives on Location Privacy Management on iPhones. Proceedings of the ACM on Human-Computer Interaction, 8 **(MHCI)**, Article 282, 1-25.
 
 H. Zhou, P. Somarathne, T.A. Peirispulle, C. Fan, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2024). [PairPlayVR: Shared Hand Control for Virtual Games](https://dl.acm.org/doi/pdf/10.1145/3652920.3653057). In Proceedings of the Augmented Humans International Conference 2024 **(AHs’24)**, 311-314.
 
