@@ -6,7 +6,7 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2024
-H. Zhou, T. Ayesh, C. Fan, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2024). [CoplayingVR: Understanding User Experience in Shared Control in Virtual Reality]({{ site.baseurl }}/papers/imwut24). In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), to appear.
+H. Zhou, T. Ayesh, C. Fan, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2024). [CoplayingVR: Understanding User Experience in Shared Control in Virtual Reality]({{ site.baseurl }}/papers/imwut24.pdf). In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), to appear.
 
 W. Jiang, M. Windl, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, S. Mayer (2024). [An Immersive and Interactive VR Dataset to Elicit Emotions]({{ site.baseurl }}/papers/jiang2024immersive.pdf). In Proceedings of the TVCG Special Issue on the 2024 IEEE International Symposium on Mixed and Augmented Reality **(ISMAR’24)**, to appear. 
 
