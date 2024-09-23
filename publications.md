@@ -11,7 +11,7 @@ Y. Ma, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibb
 
 H. Zhou, T. Ayesh, C. Fan, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2024). [CoplayingVR: Understanding User Experience in Shared Control in Virtual Reality]({{ site.baseurl }}/papers/imwut24.pdf). In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), 8(3), pp1-25.
 
-W. Jiang, M. Windl, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, S. Mayer (2024). [An Immersive and Interactive VR Dataset to Elicit Emotions]({{ site.baseurl }}/papers/jiang2024immersive.pdf). In Proceedings of the TVCG Special Issue on the 2024 IEEE International Symposium on Mixed and Augmented Reality **(ISMAR’24)**, doi: https://doi.org/10.1109/TVCG.2024.3456202. 
+W. Jiang, M. Windl, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, S. Mayer (2024). [An Immersive and Interactive VR Dataset to Elicit Emotions]({{ site.baseurl }}/papers/jiang2024immersive.pdf). In Proceedings of the TVCG Special Issue on the 2024 IEEE International Symposium on Mixed and Augmented Reality **(ISMAR’24)**, doi: [https://doi.org/10.1109/TVCG.2024.3456202](https://doi.org/10.1109/TVCG.2024.3456202). 
 
 Y. Ma, C. Sew, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves (2024). [Understanding Users’ Perspectives on Location Privacy Management on iPhones]({{ site.baseurl }}/papers/mobilehci24.pdf). Proceedings of the ACM on Human-Computer Interaction, 8 **(MHCI)**, Article 282, 1-25.
 
