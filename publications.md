@@ -7,7 +7,7 @@ Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJ
 
 ### 2024
 
-Y. Ma, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. (2024). Exploring the Effects of Location Information on Perceptions of News Credibility and Sharing Intention. International Journal of Human-Computer Studies, to appear.
+Y. Ma, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. (2024). Exploring the Effects of Location Information on Perceptions of News Credibility and Sharing Intention. International Journal of Human-Computer Studies **(IJHCS)**, to appear.
 
 H. Zhou, T. Ayesh, C. Fan, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2024). [CoplayingVR: Understanding User Experience in Shared Control in Virtual Reality]({{ site.baseurl }}/papers/imwut24.pdf). In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), 8(3), pp1-25.
 
