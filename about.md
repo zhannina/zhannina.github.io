@@ -10,7 +10,7 @@ Previously I held a position of [Doreen Thomas Postdoctoral Research Fellow](htt
 I hold a PhD in Engineering from the [School of Computing and Information Systems](https://cis.unimelb.edu.au/), [University of Melbourne](http://www.unimelb.edu.au/) (Australia), an MSc in Computer Science and Engineering from [University of Oulu](http://www.oulu.fi/university/) (Finland), and a BSc in Computer Science from [University College London](https://www.ucl.ac.uk/) (UK).
 
 ### Contact
-Please feel free to [contact me](mailto:zhanna.sarsenbayeva@sydney.edu.au) in case if you have any questions or interested in my research.
+Please feel free to contact me in case if you have any questions or interested in my research.
 Email: zhanna.sarsenbayeva[at]sydney.edu.au
 
 ### CV
