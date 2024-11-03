@@ -6,7 +6,7 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2025
-Y. Ma, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. (2024). Exploring the Effects of Location Information on Perceptions of News Credibility and Sharing Intention. International Journal of Human-Computer Studies **(IJHCS)**, to appear.
+Y. Ma, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. (2024). [Exploring the Effects of Location Information on Perceptions of News Credibility and Sharing Intention](https://www.sciencedirect.com/science/article/pii/S1071581924001617). International Journal of Human-Computer Studies **(IJHCS)**, vol 193, 103378.
 
 
 ### 2024
