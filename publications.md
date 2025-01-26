@@ -6,11 +6,17 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2025
+T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction, CHI'25, to appear.
+
+H. Zhou, T. Kip, Y. Dong, A. Bianchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2025). Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality, CHI'25, to appear. 
+
+Y. Ma, S. Zhang, D. Yang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knnibbe, J. Goncalves (2025).
+Raising Awareness of Location Information Vulnerabilities in Social Media Photos, CHI'25, to appear. 
+
 Y. Ma, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. (2024). [Exploring the Effects of Location Information on Perceptions of News Credibility and Sharing Intention](https://www.sciencedirect.com/science/article/pii/S1071581924001617). International Journal of Human-Computer Studies **(IJHCS)**, vol 193, 103378.
 
 
 ### 2024
-
 H. Zhou, T. Ayesh, C. Fan, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2024). [CoplayingVR: Understanding User Experience in Shared Control in Virtual Reality]({{ site.baseurl }}/papers/imwut24.pdf). In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), 8(3), pp1-25.
 
 W. Jiang, M. Windl, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, S. Mayer (2024). [An Immersive and Interactive VR Dataset to Elicit Emotions]({{ site.baseurl }}/papers/jiang2024immersive.pdf). In Proceedings of the TVCG Special Issue on the 2024 IEEE International Symposium on Mixed and Augmented Reality **(ISMAR’24)**, doi: [https://doi.org/10.1109/TVCG.2024.3456202](https://doi.org/10.1109/TVCG.2024.3456202). 
