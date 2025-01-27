@@ -6,12 +6,12 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2025
-T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction, CHI'25, to appear.
+T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction, **CHI'25**, to appear.
 
-H. Zhou, T. Kip, Y. Dong, A. Bianchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2025). Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality, CHI'25, to appear. 
+H. Zhou, T. Kip, Y. Dong, A. Bianchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2025). Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality, **CHI'25**, to appear. 
 
 Y. Ma, S. Zhang, D. Yang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knnibbe, J. Goncalves (2025).
-Raising Awareness of Location Information Vulnerabilities in Social Media Photos, CHI'25, to appear. 
+Raising Awareness of Location Information Vulnerabilities in Social Media Photos, **CHI'25**, to appear. 
 
 Y. Ma, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. (2024). [Exploring the Effects of Location Information on Perceptions of News Credibility and Sharing Intention](https://www.sciencedirect.com/science/article/pii/S1071581924001617). International Journal of Human-Computer Studies **(IJHCS)**, vol 193, 103378.
 
