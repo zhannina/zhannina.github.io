@@ -6,18 +6,18 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2025
-T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction, **CHI'25**, to appear.
+T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction, **CHI'25**, pp. 1-24.
 
-H. Zhou, T. Kip, Y. Dong, A. Bianchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2025). Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality, **CHI'25**, to appear. 
+H. Zhou, T. Kip, Y. Dong, A. Bianchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2025). Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality, **CHI'25**, pp. 1-16. 
 
 Y. Ma, S. Zhang, D. Yang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knnibbe, J. Goncalves (2025).
-Raising Awareness of Location Information Vulnerabilities in Social Media Photos, **CHI'25**, to appear. 
+Raising Awareness of Location Information Vulnerabilities in Social Media Photos, **CHI'25**, pp. 1-14. 
 
 Y. Ma, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. (2024). [Exploring the Effects of Location Information on Perceptions of News Credibility and Sharing Intention](https://www.sciencedirect.com/science/article/pii/S1071581924001617). International Journal of Human-Computer Studies **(IJHCS)**, vol 193, 103378.
 
 
 ### 2024
-H. Zhou, T. Ayesh, C. Fan, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2024). [CoplayingVR: Understanding User Experience in Shared Control in Virtual Reality]({{ site.baseurl }}/papers/imwut24.pdf). In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), 8(3), pp1-25.
+H. Zhou, T. Ayesh, C. Fan, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2024). [CoplayingVR: Understanding User Experience in Shared Control in Virtual Reality]({{ site.baseurl }}/papers/imwut24.pdf). In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'24**), 8(3), pp1-25.
 
 W. Jiang, M. Windl, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, S. Mayer (2024). [An Immersive and Interactive VR Dataset to Elicit Emotions]({{ site.baseurl }}/papers/jiang2024immersive.pdf). In Proceedings of the TVCG Special Issue on the 2024 IEEE International Symposium on Mixed and Augmented Reality **(ISMAR’24)**, doi: [https://doi.org/10.1109/TVCG.2024.3456202](https://doi.org/10.1109/TVCG.2024.3456202). 
 
@@ -30,31 +30,31 @@ A. Tong, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Gon
 ### 2023
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, C. Fleming, B. Tag, A. Withana, N. van Berkel, A. McEwan (2023). [A Review on Mood Assessment using Smartphones](https://link.springer.com/chapter/10.1007/978-3-031-42283-6_22). Proceedings of the 19th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’23)**, Lecture Notes in Computer Science, vol 14143. Springer, Cham.
 
-W. Jiang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Irlitti, J. Wei, J. Knibbe, T. Dingler, J. Goncalves, V. Kostakos (2023). [Embedding Interactive Information in 3D Prints Using Low-Cost Readily-Available Printers and Materials](https://dl.acm.org/doi/10.1145/3610933). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT**), vol 7, issue 3, Article No.: 102, pp 1–29.
+W. Jiang, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Irlitti, J. Wei, J. Knibbe, T. Dingler, J. Goncalves, V. Kostakos (2023). [Embedding Interactive Information in 3D Prints Using Low-Cost Readily-Available Printers and Materials](https://dl.acm.org/doi/10.1145/3610933). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'23**), vol 7, issue 3, Article No.: 102, pp 1–29.
 
 Y. Ma, Q. Zhou, B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves (2023). ["Hello, Fellow Villager!": Perceptions and Impact of Displaying Users’ Locations on Weibo](https://link.springer.com/chapter/10.1007/978-3-031-42286-7_29). Proceedings of the 19th IFIP TC.13 International Conference on Human-Computer Interaction **(INTERACT’23)**, Lecture Notes in Computer Science, vol 14144. Springer, Cham.
 
 A. Tong, P. Perera, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. McEwan, A. C. De Silva, A. Withana (2023). [Fully 3D-Printed Dry EEG Electrodes](https://www.mdpi.com/1424-8220/23/11/5175), **Sensors**, no. 11: 5175.
 
 
-C. Wang, W. Jiang, K. Yang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, J. Goncalves, V. Kostakos (2023). [Using Thermal Imaging to Measure Hand Hygiene Quality](https://www.sciencedirect.com/science/article/pii/S0195670123001718). Journal of Hospital Infection, vol 139 (Sep 2023).
+C. Wang, W. Jiang, K. Yang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, J. Goncalves, V. Kostakos (2023). [Using Thermal Imaging to Measure Hand Hygiene Quality](https://www.sciencedirect.com/science/article/pii/S0195670123001718). **Journal of Hospital Infection**, vol 139 (Sep 2023).
 
-<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, D. Hettiachchi, B. Tag, E. Velloso, J. Goncalves, V. Kostakos (2023). [Mapping 20 Years of Accessibility Research in HCI: A Co-word Analysis](https://www.sciencedirect.com/science/article/pii/S1071581923000241?casa_token=gram56CImzoAAAAA:mDC_j_WLxr0kzxLXetPvj-PsketUviw3Ht1AqBiGQAZcSGuvpKHZ3S_I0MDWKBFTPtpz8JgU). International Journal of Human-Computer Studies, 103018.
+<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, D. Hettiachchi, B. Tag, E. Velloso, J. Goncalves, V. Kostakos (2023). [Mapping 20 Years of Accessibility Research in HCI: A Co-word Analysis](https://www.sciencedirect.com/science/article/pii/S1071581923000241?casa_token=gram56CImzoAAAAA:mDC_j_WLxr0kzxLXetPvj-PsketUviw3Ht1AqBiGQAZcSGuvpKHZ3S_I0MDWKBFTPtpz8JgU). **International Journal of Human-Computer Studies**, 103018.
 
-K. Yang, B. Tag, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Dingler, G. Wadley, J. Goncalves (2023). [Survey on Emotion Sensing using Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9942293?casa_token=HUimur0QWT8AAAAA:36DuMfm0i07rz0AckK1w17yZ0L2Ijk-tNU2MrE5uf0ngQ83syoh3Zp8E0BiTzkn5rPhk3BHs). IEEE Transactions on Affective Computing.
+K. Yang, B. Tag, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, T. Dingler, G. Wadley, J. Goncalves (2023). [Survey on Emotion Sensing using Mobile Devices](https://ieeexplore.ieee.org/abstract/document/9942293?casa_token=HUimur0QWT8AAAAA:36DuMfm0i07rz0AckK1w17yZ0L2Ijk-tNU2MrE5uf0ngQ83syoh3Zp8E0BiTzkn5rPhk3BHs). **IEEE Transactions on Affective Computing**.
 
-N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves (2023). [The Methodology of Studying Fairness Perceptions in Artificial Intelligence: Contrasting CHI and FAccT](https://www.sciencedirect.com/science/article/pii/S1071581922001744). International Journal of Human-Computer Studies, 170, 102954.
+N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves (2023). [The Methodology of Studying Fairness Perceptions in Artificial Intelligence: Contrasting CHI and FAccT](https://www.sciencedirect.com/science/article/pii/S1071581922001744). **International Journal of Human-Computer Studies**, 170, 102954.
 
 
 ### 2022
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, E. Velloso, J. Goncalves, V. Kostakos (2022). [Methodological Standards in Accessibility Research on Motor Impairments: A Survey](https://dl.acm.org/doi/pdf/10.1145/3543509). **ACM Computing Surveys**, (May 2022), doi: https://doi.org/10.1145/3543509.
 
-K. Yang, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2022). [Behavioral and Physiological Signals-Based Deep Multimodal Approach for Mobile Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9502508?casa_token=MS7vzwGJu10AAAAA:LVvYPIPrXZGPG7lgtWbxg8Lo2ADQYrfkkJUGPJZd_-DADd8003MrvWNPQsM6wcxKkBtXiwtU). IEEE Transactions on Affective Computing.
+K. Yang, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Tag, T. Dingler, G. Wadley, J. Goncalves (2022). [Behavioral and Physiological Signals-Based Deep Multimodal Approach for Mobile Emotion Recognition](https://ieeexplore.ieee.org/abstract/document/9502508?casa_token=MS7vzwGJu10AAAAA:LVvYPIPrXZGPG7lgtWbxg8Lo2ADQYrfkkJUGPJZd_-DADd8003MrvWNPQsM6wcxKkBtXiwtU). **IEEE Transactions on Affective Computing**.
 
 B. Tag, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Cox, G. Wadley, J. Goncalves, V. Kostakos (2022). [Emotion Trajectories in Smartphone Use: Towards Recognizing Emotion Regulation In-the-Wild](https://www.sciencedirect.com/science/article/abs/pii/S1071581922000982). **International Journal of Human-Computer Studies**, 166, 102872.
 
-C. Wang, K. Yang, W. Jiang, J. Wei, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, V. Kostakos (2022). [Hand Hygiene Quality Assessment using Image-to-Image Translation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_7). In: Wang, L., Dou, Q., Fletcher, P.T., Speidel, S., Li, S. (eds) Medical Image Computing and Computer Assisted Intervention – MICCAI 2022. **(MICCAI’22)**. Lecture Notes in Computer Science, vol 13437. Springer, Cham.
+C. Wang, K. Yang, W. Jiang, J. Wei, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves, V. Kostakos (2022). [Hand Hygiene Quality Assessment using Image-to-Image Translation](https://link.springer.com/chapter/10.1007/978-3-031-16449-1_7). In: Wang, L., Dou, Q., Fletcher, P.T., Speidel, S., Li, S. (eds) Medical Image Computing and Computer Assisted Intervention **(MICCAI’22)**. Lecture Notes in Computer Science, vol 13437. Springer, Cham.
 
 W. Jiang, D. Yu, C. Wang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, J. Goncalves, V. Kostakos (2022). [Near-Infrared Imaging for Information Embedding and Extraction with Layered Structures](https://web.archive.org/web/20220505230732id_/https://dl.acm.org/doi/pdf/10.1145/3533426). **ACM Transactions on Graphics**, (April 2022), doi: https://doi.org/10.1145/3533426.
 
@@ -125,7 +125,7 @@ S. Mayer, L. Lischke, J. E. Grønbæk, <span style="text-decoration:underline;">
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, C. Luo, V. Kostakos, J. Goncalves (2017). [Challenges of Situational Impairments during Interaction with Mobile Devices]({{ site.baseurl }}/papers/ozchi_challenges.pdf). Proceedings of the 29th Australian Conference on Human-Computer Interaction **(OzCHI’17)**, 477-481.
 <span style="font-weight:bold;">*Best Paper -- Honourable Mention Award*</span>
 
-<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, A. Visuri, S. Rissanen, H. Rintamäki, V. Kostakos, J. Goncalves (2017). [Sensing Cold-Induced Situational Impairments in Mobile Interaction using Battery Temperature]({{ site.baseurl }}/papers/imwut2017d.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, presented at UbiComp’17)**, 1(3), 98:1-98:10.
+<span style="text-decoration:underline;">Z. Sarsenbayeva</span>, N. van Berkel, A. Visuri, S. Rissanen, H. Rintamäki, V. Kostakos, J. Goncalves (2017). [Sensing Cold-Induced Situational Impairments in Mobile Interaction using Battery Temperature]({{ site.baseurl }}/papers/imwut2017d.pdf). Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies **(IMWUT, UbiComp’17)**, 1(3), 98:1-98:10.
 
 <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, D. Ferreira, N. van Berkel, C. Luo, M. Vaisanen, V. Kostakos, J. Goncalves (2017). [Vision-Based Happiness Inference: A Feasibility Case-Study]({{ site.baseurl }}/papers/ubicompadj17a.pdf). Adjunct Proceedings of the 2017 ACM International Joint Conference on Pervasive and Ubiquitous Computing **(UbiComp’17 Adjunct)**, 494-499.
 
