@@ -6,12 +6,12 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2025
-T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction, **CHI'25**, pp. 1-24.
+T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction](https://dl.acm.org/doi/full/10.1145/3706598.3713492), **CHI'25**, pp. 1-24.
 
-H. Zhou, T. Kip, Y. Dong, A. Bianchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2025). Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality, **CHI'25**, pp. 1-16. 
+H. Zhou, T. Kip, Y. Dong, A. Bianchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana (2025). [Juggling Extra Limbs: Identifying Control Strategies for Supernumerary Multi-Arms in Virtual Reality](https://dl.acm.org/doi/full/10.1145/3706598.3713647), **CHI'25**, pp. 1-16. 
 
 Y. Ma, S. Zhang, D. Yang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knnibbe, J. Goncalves (2025).
-Raising Awareness of Location Information Vulnerabilities in Social Media Photos, **CHI'25**, pp. 1-14. 
+[Raising Awareness of Location Information Vulnerabilities in Social Media Photos](https://dl.acm.org/doi/full/10.1145/3706598.3714074), **CHI'25**, pp. 1-14. 
 
 Y. Ma, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. (2024). [Exploring the Effects of Location Information on Perceptions of News Credibility and Sharing Intention](https://www.sciencedirect.com/science/article/pii/S1071581924001617). International Journal of Human-Computer Studies **(IJHCS)**, vol 193, 103378.
 
