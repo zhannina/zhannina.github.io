@@ -6,6 +6,8 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2025
+S. Jayasiriwardene, B. Tag, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. More Than Words: The Impact of Voice Assistant Personality Traits on Failure Mitigation, In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'24**), to appear.
+
 T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). Weight-Induced Consumed Endurance (WICE): A Model to Quantify Shoulder Fatigue with Weighted Objects, **UIST'25**, to appear.
 
 T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction](https://dl.acm.org/doi/full/10.1145/3706598.3713492), **CHI'25**, pp. 1-24.
