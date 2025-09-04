@@ -6,7 +6,8 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2025
-S. Jayasiriwardene, B. Tag, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [More Than Words: The Impact of Voice Assistant Personality Traits on Failure Mitigation](https://dl.acm.org/doi/10.1145/3749518), In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'25**), to appear.
+S. Jayasiriwardene, B. Tag, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [More Than Words: The Impact of Voice Assistant Personality Traits on Failure Mitigation](https://dl.acm.org/doi/10.1145/3749518), In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'25**), vol 9, issue 3, Article No.: 91, pp 1–33.
+
 
 T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [Weight-Induced Consumed Endurance (WICE): A Model to Quantify Shoulder Fatigue with Weighted Objects](), **UIST'25**, to appear.
 
