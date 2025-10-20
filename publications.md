@@ -11,7 +11,7 @@ T. Li, D. Peng, E. Velloso, A. Withana, K. Minamizawa, <span style="text-decorat
 S. Jayasiriwardene, B. Tag, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [More Than Words: The Impact of Voice Assistant Personality Traits on Failure Mitigation](https://dl.acm.org/doi/10.1145/3749518), In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'25**), vol 9, issue 3, Article No.: 91, pp 1–33.
 
 
-T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [Weight-Induced Consumed Endurance (WICE): A Model to Quantify Shoulder Fatigue with Weighted Objects](https://dl.acm.org/doi/pdf/10.1145/3746059.3747745), **UIST'25**, to appear.
+T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [Weight-Induced Consumed Endurance (WICE): A Model to Quantify Shoulder Fatigue with Weighted Objects](https://dl.acm.org/doi/pdf/10.1145/3746059.3747745), **UIST'25**, artcile no.165, pp 1-15.
 
 T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [Estimating the Effects of Encumbrance and Walking on Mixed Reality Interaction](https://dl.acm.org/doi/full/10.1145/3706598.3713492), **CHI'25**, pp. 1-24.
 
