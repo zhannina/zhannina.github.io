@@ -60,6 +60,7 @@ K. Yang, B. Tag, C. Wang, Y. Gu, <span style="text-decoration:underline;">Z. Sar
 
 N. van Berkel, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Goncalves (2023). [The Methodology of Studying Fairness Perceptions in Artificial Intelligence: Contrasting CHI and FAccT](https://www.sciencedirect.com/science/article/pii/S1071581922001744). **International Journal of Human-Computer Studies**, 170, 102954.
 
+S. Hadadi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Kay (2023). [Starting well on design for accessibility: analysis of W3C’s 167 accessibility evaluation tools for the design phase](https://dl.acm.org/doi/10.1145/3597638.3614474). In Proceedings of the 25th International ACM SIGACCESS Conference on Computers and Accessibility, **ASSETS’23**, article no.:81, pp. 1-7.
 
 ### 2022
 
