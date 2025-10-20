@@ -20,13 +20,13 @@ H. Zhou, T. Kip, Y. Dong, A. Bianchi, <span style="text-decoration:underline;">Z
 Y. Ma, S. Zhang, D. Yang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves (2025).
 [Raising Awareness of Location Information Vulnerabilities in Social Media Photos](https://dl.acm.org/doi/full/10.1145/3706598.3714074), **CHI'25**, pp. 1-14. 
 
-R. Liu, T. Li, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. Understanding and addressing ambient illumination as a situational impairment for digital devices. In The 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, Sydney, Australia, 2025, to appear.
+R. Liu, T. Li, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. Understanding and addressing ambient illumination as a situational impairment for digital devices. In The 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, to appear.
 
-T. Li, G. Zhang, <span style="text-decoration:underline;">Zhanna Sarsenbayeva</span>. SOBO: An ai-driven small object boundary detection framework for optimising VR safety in confined spaces. In The 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, New York, NY, USA, 2025, to appear.
+T. Li, G. Zhang, <span style="text-decoration:underline;">Zhanna Sarsenbayeva</span>. SOBO: An AI-driven small object boundary detection framework for optimising VR safety in confined spaces. In The 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, to appear.
 
-T. Li, B. Syiem, N. van Berkel, J. Kim, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. Trends and directions of extended reality research in hci: A co-word analysis. In The 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, New York, NY, USA, 2025, to appear.
+T. Li, B. Syiem, N. van Berkel, J. Kim, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. Trends and directions of extended reality research in hci: A co-word analysis. In The 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, to appear.
 
-T. Li, P. Somarathne, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, and Anusha Withana. Neverlagging: Enhancing virtual reality finger tracking with a physics-inspired time-agnostic graph neural network. In The 37th Australian Conference on Human-Computer Interaction, OzCHI ’25, New York, NY, USA, 2025, to appear.
+T. Li, P. Somarathne, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, and Anusha Withana. Neverlagging: Enhancing virtual reality finger tracking with a physics-inspired time-agnostic graph neural network. In The 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, to appear.
 
 Y. Ma, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. (2024). [Exploring the Effects of Location Information on Perceptions of News Credibility and Sharing Intention](https://www.sciencedirect.com/science/article/pii/S1071581924001617). International Journal of Human-Computer Studies **(IJHCS)**, vol 193, 103378.
 
