@@ -6,10 +6,11 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2025
+R. Liu, T. Li, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. Effects of Ambient Illumination and Screen Luminance on Mixed Reality Interaction. **IEEE Access**, November 2025, to appear.
+
 T. Li, D. Peng, E. Velloso, A. Withana, K. Minamizawa, <span style="text-decoration:underline;">Z. Sarsenbayeva </span>. Estimating the effects of ambient noise on mixed reality interaction. In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'25**), vol 9, issue 4, December 2025, to appear.
 
 S. Jayasiriwardene, B. Tag, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [More Than Words: The Impact of Voice Assistant Personality Traits on Failure Mitigation](https://dl.acm.org/doi/10.1145/3749518), In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'25**), vol 9, issue 3, Article No.: 91, pp 1–33.
-
 
 T. Li, E. Velloso, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [Weight-Induced Consumed Endurance (WICE): A Model to Quantify Shoulder Fatigue with Weighted Objects](https://dl.acm.org/doi/pdf/10.1145/3746059.3747745), **UIST'25**, artcile no.165, pp 1-15.
 
