@@ -6,7 +6,7 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2025
-R. Liu, T. Li, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. Effects of Ambient Illumination and Screen Luminance on Mixed Reality Interaction. **IEEE Access**, November 2025, to appear.
+R. Liu, T. Li, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. [Effects of Ambient Illumination and Screen Luminance on Mixed Reality Interaction](https://ieeexplore.ieee.org/document/11237161). **IEEE Access**, November 2025, vol. 13, pp. 192837-192855.
 
 T. Li, D. Peng, E. Velloso, A. Withana, K. Minamizawa, <span style="text-decoration:underline;">Z. Sarsenbayeva </span>. Estimating the effects of ambient noise on mixed reality interaction. In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'25**), vol 9, issue 4, December 2025, to appear.
 
