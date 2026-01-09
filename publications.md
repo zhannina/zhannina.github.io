@@ -6,7 +6,7 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2025
-T. Li, D. Peng, E. Velloso, A. Withana, K. Minamizawa, <span style="text-decoration:underline;">Z. Sarsenbayeva </span>. [Estimating the effects of ambient noise on mixed reality interaction](https://dl.acm.org/doi/10.1145/3770715). In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'26**), vol 9, issue 4, Article No.: 189, Pages 1 - 34.
+T. Li, D. Peng, E. Velloso, A. Withana, K. Minamizawa, <span style="text-decoration:underline;">Z. Sarsenbayeva </span>. [Estimating the effects of ambient noise on mixed reality interaction](https://dl.acm.org/doi/10.1145/3770715). In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'26**), vol 9, issue 4, Article No.: 189, pp 1-34.
 
 S. Jayasiriwardene, B. Tag, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [More Than Words: The Impact of Voice Assistant Personality Traits on Failure Mitigation](https://dl.acm.org/doi/10.1145/3749518), In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'25**), vol 9, issue 3, Article No.: 91, pp 1–33.
 
