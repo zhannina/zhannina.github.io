@@ -6,9 +6,7 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2025
-R. Liu, T. Li, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. [Effects of Ambient Illumination and Screen Luminance on Mixed Reality Interaction](https://ieeexplore.ieee.org/document/11237161). **IEEE Access**, November 2025, vol. 13, pp. 192837-192855.
-
-T. Li, D. Peng, E. Velloso, A. Withana, K. Minamizawa, <span style="text-decoration:underline;">Z. Sarsenbayeva </span>. Estimating the effects of ambient noise on mixed reality interaction. In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'25**), vol 9, issue 4, December 2025, to appear.
+T. Li, D. Peng, E. Velloso, A. Withana, K. Minamizawa, <span style="text-decoration:underline;">Z. Sarsenbayeva </span>. [Estimating the effects of ambient noise on mixed reality interaction](https://dl.acm.org/doi/10.1145/3770715). In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'26**), vol 9, issue 4, Article No.: 189, Pages 1 - 34.
 
 S. Jayasiriwardene, B. Tag, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span> (2025). [More Than Words: The Impact of Voice Assistant Personality Traits on Failure Mitigation](https://dl.acm.org/doi/10.1145/3749518), In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'25**), vol 9, issue 3, Article No.: 91, pp 1–33.
 
@@ -21,13 +19,15 @@ H. Zhou, T. Kip, Y. Dong, A. Bianchi, <span style="text-decoration:underline;">Z
 Y. Ma, S. Zhang, D. Yang, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves (2025).
 [Raising Awareness of Location Information Vulnerabilities in Social Media Photos](https://dl.acm.org/doi/full/10.1145/3706598.3714074), **CHI'25**, pp. 1-14. 
 
-R. Liu, T. Li, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. Understanding and addressing ambient illumination as a situational impairment for digital devices. In the 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, to appear.
+R. Liu, T. Li, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. [Effects of Ambient Illumination and Screen Luminance on Mixed Reality Interaction](https://ieeexplore.ieee.org/document/11237161). **IEEE Access**, November 2025, vol. 13, pp. 192837-192855.
 
-T. Li, G. Zhang, <span style="text-decoration:underline;">Zhanna Sarsenbayeva</span>. SOBO: An AI-driven small object boundary detection framework for optimising VR safety in confined spaces. In the 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, to appear.
+R. Liu, T. Li, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. [Understanding and addressing ambient illumination as a situational impairment for digital devices](https://dl.acm.org/doi/abs/10.1145/3764687.3769905). In the 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, pp. 556-566.
 
-T. Li, B. Syiem, N. van Berkel, J. Kim, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. Trends and directions of eXtended Reality research in HCI: A co-word analysis. In the 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, to appear.
+T. Li, G. Zhang, <span style="text-decoration:underline;">Zhanna Sarsenbayeva</span>. [SOBO: An AI-driven small object boundary detection framework for optimising VR safety in confined spaces](https://dl.acm.org/doi/abs/10.1145/3764687.3769913). In the 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, pp. 628-637.
 
-T. Li, P. Somarathne, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, and Anusha Withana. Neverlagging: Enhancing Virtual Reality finger tracking with a physics-inspired time-agnostic graph neural network. In The 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, to appear.
+T. Li, B. Syiem, N. van Berkel, J. Kim, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. [Trends and directions of eXtended Reality research in HCI: A co-word analysis](https://dl.acm.org/doi/abs/10.1145/3764687.3769922). In the 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, pp. 720-731.
+
+T. Li, P. Somarathne, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, and Anusha Withana. [Neverlagging: Enhancing Virtual Reality finger tracking with a physics-inspired time-agnostic graph neural network](https://dl.acm.org/doi/abs/10.1145/3764687.3769915). In The 37th Australian Conference on Human-Computer Interaction, **OzCHI'25**, pp. 647-657.
 
 Y. Ma, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, J. Knibbe, J. Goncalves. (2024). [Exploring the Effects of Location Information on Perceptions of News Credibility and Sharing Intention](https://www.sciencedirect.com/science/article/pii/S1071581924001617). International Journal of Human-Computer Studies **(IJHCS)**, vol 193, 103378.
 
