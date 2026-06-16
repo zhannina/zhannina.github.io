@@ -6,15 +6,15 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2026
-Z. Kuang, T. Li, W. Jiang, S. Mayer, F. Salim, B. Tag, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. Understanding the Effects of Interaction on Emotional Experiences in VR, **CHI'26**, to appear.
+Z. Kuang, T. Li, W. Jiang, S. Mayer, F. Salim, B. Tag, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. [Understanding the Effects of Interaction on Emotional Experiences in VR](https://dl.acm.org/doi/full/10.1145/3772318.3790313), **CHI'26**, Article No.:631, pp.1-20.
 
 L. Lai, T. Li, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Syiem.
-Searching Through Complex Worlds: Visual Search and Spatial Regularity Memory in Mixed Reality, **CHI'26**, to appear.
+[Searching Through Complex Worlds: Visual Search and Spatial Regularity Memory in Mixed Reality](https://dl.acm.org/doi/full/10.1145/3772318.3790976), **CHI'26**, Article No.:612, pp.1-28.
 
 H. Zhou, X. Huang, W. Wijaya, Y. Fei, D. Lindlbauer, E. Velloso, A. Bianchi, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana.
-One Body, Two Minds: Alternating VR Perspective During Remote Teleoperation of Supernumerary Limbs, **CHI'26**, to appear.
+[One Body, Two Minds: Alternating VR Perspective During Remote Teleoperation of Supernumerary Limbs](https://dl.acm.org/doi/full/10.1145/3772318.3791433), **CHI'26**, Article No.:822, pp.1-20.
 
-H. Zhou, Y. Dong, S. Takashita, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana. “Dancing Your Boundaries”: Spatial Guidelines for Supernumerary Robotic Arms in Near-Body Interaction, **CHI'26**, to appear.
+H. Zhou, Y. Dong, S. Takashita, M. Inami, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, A. Withana. [SRL Proxemics: Spatial Guidelines for Supernumerary Robotic Limbs in Near-Body Interactions](https://dl.acm.org/doi/full/10.1145/3772318.3790532), **CHI'26**, Article No.:823, pp.1-21.
 
 ### 2025
 T. Li, D. Peng, E. Velloso, A. Withana, K. Minamizawa, <span style="text-decoration:underline;">Z. Sarsenbayeva </span>. [Estimating the effects of ambient noise on mixed reality interaction](https://dl.acm.org/doi/10.1145/3770715). In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (**IMWUT, UbiComp'26**), vol 9, issue 4, Article No.: 189, pp 1-34.
