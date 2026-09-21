@@ -9,7 +9,7 @@ Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJ
 T. Li, X. Li, A. Tong, D. Peng, Z. Kuang, C. Luo, J. Kim, E. Velloso, A. Withana, Y. Shen, <span style="text-decoration:underline;">Z. Sarsenbayeva.</span>[EverydayXR: 1st Workshop on Situational, Contextual, and Environmental Constraints in XR](https://sites.google.com/view/everyday-xr/),
 Companion of the 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing, **UbiComp'26**, to appear.
 
-S. Jayasiriwardene, H. Zhou, W. Jiang, B. Tag, N. Koemel, M. Ahmadi, J. Goncalves, E. Stamatakis, A. Withana, and <span style="text-decoration:underline;">Z. Sarsenbayeva.</span> [Probing context-sensitive expectations through user-driven personality configuration in conversational AI](https://www.degruyterbrill.com/document/doi/10.1515/icom-2026-0029/html), i-com, 2026. https://doi.org/10.1515/icom-2026-0029
+S. Jayasiriwardene, H. Zhou, W. Jiang, B. Tag, N. Koemel, M. Ahmadi, J. Goncalves, E. Stamatakis, A. Withana, and <span style="text-decoration:underline;">Z. Sarsenbayeva.</span> [Probing context-sensitive expectations through user-driven personality configuration in conversational AI](https://www.degruyterbrill.com/document/doi/10.1515/icom-2026-0029/html), i-com, 2026. 
 
 Tinghui Li Corresponding Author, Juno Kim, Eduardo Velloso, Anusha Withana,  and <span style="text-decoration:underline;">Z. Sarsenbayeva.</span> [Why Mixed Reality Remains Confined to the Laboratory](), 
 Companion of the 2026 ACM International Joint Conference on Pervasive and Ubiquitous Computing, **UbiComp'26**, to appear.
