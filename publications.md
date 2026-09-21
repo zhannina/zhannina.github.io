@@ -6,6 +6,8 @@ permalink: /publications/
 Check my [Google Scholar profile](https://scholar.google.co.uk/citations?user=VJH22RwAAAAJ&hl=en&oi=ao)
 
 ### 2026
+S. Jayasiriwardene, H. Zhou, W. Jiang, B. Tag, N. Koemel, M. Ahmadi, J. Goncalves, E. Stamatakis, A. Withana, and <span style="text-decoration:underline;">Z. Sarsenbayeva.</span> [Probing context-sensitive expectations through user-driven personality configuration in conversational AI](https://www.degruyterbrill.com/document/doi/10.1515/icom-2026-0029/html) i-com, 2026. https://doi.org/10.1515/icom-2026-0029
+
 Z. Kuang, T. Li, W. Jiang, S. Mayer, F. Salim, B. Tag, A. Withana, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>. [Understanding the Effects of Interaction on Emotional Experiences in VR](https://dl.acm.org/doi/full/10.1145/3772318.3790313), **CHI'26**, Article No.:631, pp.1-20.
 
 L. Lai, T. Li, <span style="text-decoration:underline;">Z. Sarsenbayeva</span>, B. Syiem.
